@@ -1,5 +1,389 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Mob.img">
+    <imgdir name="9300333">
+        <string name="name" value="Ultra Gray"/>
+    </imgdir>
+    <imgdir name="9301000">
+        <string name="name" value="Bain"/>
+    </imgdir>
+    <imgdir name="9301001">
+        <string name="name" value="Gigantic Viking"/>
+    </imgdir>
+    <imgdir name="9301002">
+        <string name="name" value="Viking"/>
+    </imgdir>
+    <imgdir name="9301003">
+        <string name="name" value="Dual Ghost Pirate"/>
+    </imgdir>
+    <imgdir name="9301004">
+        <string name="name" value="Ghost Pirate"/>
+    </imgdir>
+    <imgdir name="9400238">
+        <string name="name" value="Drumming Bunny"/>
+    </imgdir>
+    <imgdir name="9400239">
+        <string name="name" value="Sand Rat"/>
+    </imgdir>
+    <imgdir name="9400240">
+        <string name="name" value="Roid "/>
+    </imgdir>
+    <imgdir name="9400241">
+        <string name="name" value="Pig"/>
+    </imgdir>
+    <imgdir name="9400242">
+        <string name="name" value="Ribbon Pig"/>
+    </imgdir>
+    <imgdir name="9400243">
+        <string name="name" value="Stone Golem"/>
+    </imgdir>
+    <imgdir name="9400244">
+        <string name="name" value="Mixed Golem"/>
+    </imgdir>
+    <imgdir name="9400245">
+        <string name="name" value="Zombie Mushroom"/>
+    </imgdir>
+    <imgdir name="9400246">
+        <string name="name" value="Horny Mushroom"/>
+    </imgdir>
+    <imgdir name="9400247">
+        <string name="name" value="Drumming Bunny"/>
+    </imgdir>
+    <imgdir name="9400248">
+        <string name="name" value="Sand Rat"/>
+    </imgdir>
+    <imgdir name="9400249">
+        <string name="name" value="Roid "/>
+    </imgdir>
+    <imgdir name="9400532">
+        <string name="name" value="King Slime GL"/>
+    </imgdir>
+    <imgdir name="9409000">
+        <string name="name" value="Tutorial Leatty"/>
+    </imgdir>
+    <imgdir name="9409001">
+        <string name="name" value="Tutorial Drumming Rabbit"/>
+    </imgdir>
+    <imgdir name="9410016">
+        <string name="name" value="Bubble Fish"/>
+    </imgdir>
+    <imgdir name="9410017">
+        <string name="name" value="Krappi"/>
+    </imgdir>
+    <imgdir name="9410018">
+        <string name="name" value="Poopa"/>
+    </imgdir>
+    <imgdir name="9410019">
+        <string name="name" value="Cico"/>
+    </imgdir>
+    <imgdir name="9410020">
+        <string name="name" value="Jr. Seal"/>
+    </imgdir>
+    <imgdir name="9420006">
+        <string name="name" value="Book Monster"/>
+    </imgdir>
+    <imgdir name="9600009">
+        <string name="name" value="Giant Centipede"/>
+    </imgdir>
+    <imgdir name="9600010">
+        <string name="name" value="Giant Centipede"/>
+    </imgdir>
+    <imgdir name="9101000">
+        <string name="name" value="Green Mushroom"/>
+    </imgdir>
+    <imgdir name="9101001">
+        <string name="name" value="Zombie Mushroom"/>
+    </imgdir>
+    <imgdir name="9101002">
+        <string name="name" value="Ghost Stump"/>
+    </imgdir>
+    <imgdir name="9101003">
+        <string name="name" value="마왕발록"/>
+    </imgdir>
+    <imgdir name="9300384">
+        <string name="name" value="Red Slime"/>
+    </imgdir>
+    <imgdir name="9500250">
+        <string name="name" value="Versal Pig"/>
+    </imgdir>
+    <imgdir name="9500609">
+        <string name="name" value="Lovestruck King Slime"/>
+    </imgdir>
+    <imgdir name="9500576">
+        <string name="name" value="Oversized Jack-o-Lantern"/>
+    </imgdir>
+    <imgdir name="9500579">
+        <string name="name" value="Whipped Cream Wight"/>
+    </imgdir>
+    <imgdir name="8900000">
+        <string name="name" value="Pierre"/>
+    </imgdir>
+    <imgdir name="4230401">
+        <string name="name" value="Blind Eye"/>
+    </imgdir>
+    <imgdir name="9420602">
+        <string name="name" value="Dong Dong Chiang"/>
+    </imgdir>
+    <imgdir name="9420603">
+        <string name="name" value="Dong Dong Chiang2"/>
+    </imgdir>
+    <imgdir name="9420605">
+        <string name="name" value="Dong Dong Chiang1 transform"/>
+    </imgdir>
+    <imgdir name="9420606">
+        <string name="name" value="Dong Dong Chiang2 transform"/>
+    </imgdir>
+    <imgdir name="9420604">
+        <string name="name" value="Angry Guard Dog"/>
+    </imgdir>
+    <imgdir name="9420016">
+        <string name="name" value="Green Mushmom"/>
+    </imgdir>
+    <imgdir name="9600012">
+        <string name="name" value="Black Bear"/>
+    </imgdir>
+    <imgdir name="9600013">
+        <string name="name" value="White Tiger"/>
+    </imgdir>
+    <imgdir name="9600014">
+        <string name="name" value="Giant Eagle"/>
+    </imgdir>
+    <imgdir name="9600015">
+        <string name="name" value="Male Burglar"/>
+    </imgdir>
+    <imgdir name="9600016">
+        <string name="name" value="Female Burglar"/>
+    </imgdir>
+    <imgdir name="9600017">
+        <string name="name" value="Incense Burner Demon"/>
+    </imgdir>
+    <imgdir name="9600018">
+        <string name="name" value="Temple Block Monster"/>
+    </imgdir>
+    <imgdir name="9600019">
+        <string name="name" value="Small Gold Monk"/>
+    </imgdir>
+    <imgdir name="9600020">
+        <string name="name" value="Small Bronze Monk"/>
+    </imgdir>
+    <imgdir name="9600021">
+        <string name="name" value="Giant Gold Monk"/>
+    </imgdir>
+    <imgdir name="9600022">
+        <string name="name" value="Giant Silver Monk"/>
+    </imgdir>
+    <imgdir name="9600023">
+        <string name="name" value="Bronze Monk"/>
+    </imgdir>
+    <imgdir name="9600024">
+        <string name="name" value="Silver Monk"/>
+    </imgdir>
+    <imgdir name="9600025">
+        <string name="name" value="Wulin Yaoseng"/>
+    </imgdir>
+    <imgdir name="9600026">
+        <string name="name" value="Wulin Yaoseng"/>
+    </imgdir>
+    <imgdir name="9300776">
+        <string name="name" value="Master Gawyllacs"/>
+    </imgdir>
+    <imgdir name="9400701">
+        <string name="name" value="Drunken Ribbon Pig"/>
+    </imgdir>
+    <imgdir name="9400702">
+        <string name="name" value="Drunken Blue Mushroom"/>
+    </imgdir>
+    <imgdir name="9400703">
+        <string name="name" value="Drunken Evil Eye"/>
+    </imgdir>
+    <imgdir name="9400281">
+        <string name="name" value="Vergamot"/>
+    </imgdir>
+    <imgdir name="9400282">
+        <string name="name" value="Maverick A"/>
+    </imgdir>
+    <imgdir name="9400283">
+        <string name="name" value="Maverick B"/>
+    </imgdir>
+    <imgdir name="9400284">
+        <string name="name" value="Maverick Y"/>
+    </imgdir>
+    <imgdir name="9400285">
+        <string name="name" value="Maverick V"/>
+    </imgdir>
+    <imgdir name="9400286">
+        <string name="name" value="Maverick S"/>
+    </imgdir>
+    <imgdir name="9400381">
+        <string name="name" value="Enraged Afterlord"/>
+    </imgdir>
+    <imgdir name="9400382">
+        <string name="name" value="Enraged Overlord"/>
+    </imgdir>
+    <imgdir name="9400383">
+        <string name="name" value="Enraged Protolord"/>
+    </imgdir>
+    <imgdir name="9400384">
+        <string name="name" value="Raging Maverick A"/>
+    </imgdir>
+    <imgdir name="9400385">
+        <string name="name" value="Raging Maverick Y"/>
+    </imgdir>
+    <imgdir name="9400386">
+        <string name="name" value="Raging Maverick B"/>
+    </imgdir>
+    <imgdir name="9400387">
+        <string name="name" value="Raging Maverick V"/>
+    </imgdir>
+    <imgdir name="9400388">
+        <string name="name" value="Furious Eruwater"/>
+    </imgdir>
+    <imgdir name="9400389">
+        <string name="name" value="Imperial Guard"/>
+    </imgdir>
+    <imgdir name="9601116">
+        <string name="name" value="Rat"/>
+    </imgdir>
+    <imgdir name="9601105">
+        <string name="name" value="Nyen"/>
+    </imgdir>
+    <imgdir name="9302050">
+        <string name="name" value="Slime"/>
+    </imgdir>
+    <imgdir name="9302051">
+        <string name="name" value="Slime"/>
+    </imgdir>
+    <imgdir name="9302052">
+        <string name="name" value="Ribbon Pig"/>
+    </imgdir>
+    <imgdir name="9700039">
+        <string name="name" value="Golden Mushroom"/>
+    </imgdir>
+    <imgdir name="9700040">
+        <string name="name" value="White Lady"/>
+    </imgdir>
+    <imgdir name="5251000">
+        <string name="name" value="Poisoned Stone Bug"/>
+    </imgdir>
+    <imgdir name="9500607">
+        <string name="name" value="Just Dating Spore"/>
+    </imgdir>
+    <imgdir name="9500608">
+        <string name="name" value="Lovestruck Sweetheart Yeti"/>
+    </imgdir>
+    <imgdir name="9500611">
+        <string name="name" value="Smitten Panda"/>
+    </imgdir>
+    <imgdir name="9500612">
+        <string name="name" value="Infatuated Grizzly"/>
+    </imgdir>
+    <imgdir name="5250008">
+        <string name="name" value="Ephenia&apos;s Ancient Fairy"/>
+    </imgdir>
+    <imgdir name="5250009">
+        <string name="name" value="Ephenia&apos;s Shining Fairy"/>
+    </imgdir>
+    <imgdir name="5251010">
+        <string name="name" value="Sprite"/>
+    </imgdir>
+    <imgdir name="5251011">
+        <string name="name" value="Sprite Item Dropper"/>
+    </imgdir>
+    <imgdir name="5251001">
+        <string name="name" value="Stampeding Boar"/>
+    </imgdir>
+    <imgdir name="9700041">
+        <string name="name" value="Yellow Eggy Pop"/>
+    </imgdir>
+    <imgdir name="9700042">
+        <string name="name" value="Green Eggy Pop"/>
+    </imgdir>
+    <imgdir name="9700043">
+        <string name="name" value="Red Eggy Pop"/>
+    </imgdir>
+    <imgdir name="9700044">
+        <string name="name" value="Green Snail"/>
+    </imgdir>
+    <imgdir name="9700045">
+        <string name="name" value="Purple Snail"/>
+    </imgdir>
+    <imgdir name="9700046">
+        <string name="name" value="Yellow Snail"/>
+    </imgdir>
+    <imgdir name="9700047">
+        <string name="name" value="Green Snail"/>
+    </imgdir>
+    <imgdir name="9700048">
+        <string name="name" value="Purple Snail"/>
+    </imgdir>
+    <imgdir name="9700049">
+        <string name="name" value="Yellow Snail"/>
+    </imgdir>
+    <imgdir name="9700050">
+        <string name="name" value="Candle"/>
+    </imgdir>
+    <imgdir name="9700051">
+        <string name="name" value="Guardsman"/>
+    </imgdir>
+    <imgdir name="9700052">
+        <string name="name" value="Cake"/>
+    </imgdir>
+    <imgdir name="9700053">
+        <string name="name" value="Candle"/>
+    </imgdir>
+    <imgdir name="8210015">
+        <string name="name" value="Elite Prison Guard Rhino"/>
+    </imgdir>
+    <imgdir name="9700054">
+        <string name="name" value="GM Event Mask Fish"/>
+    </imgdir>
+    <imgdir name="9700055">
+        <string name="name" value="GM Event Krappy"/>
+    </imgdir>
+    <imgdir name="9700056">
+        <string name="name" value="GM Event Flower Fish"/>
+    </imgdir>
+    <imgdir name="9700057">
+        <string name="name" value="GM Event Krip"/>
+    </imgdir>
+    <imgdir name="9700058">
+        <string name="name" value="GM Event Bubble Fish"/>
+    </imgdir>
+    <imgdir name="9700059">
+        <string name="name" value="Clown Lupin"/>
+    </imgdir>
+    <imgdir name="9700060">
+        <string name="name" value="Xmas Event Slime"/>
+    </imgdir>
+    <imgdir name="9700061">
+        <string name="name" value="Xmas Event Pig"/>
+    </imgdir>
+    <imgdir name="9700062">
+        <string name="name" value="Xmas Event Wraith"/>
+    </imgdir>
+    <imgdir name="9700063">
+        <string name="name" value="Xmas Event Flyeye"/>
+    </imgdir>
+    <imgdir name="9700064">
+        <string name="name" value="Bomb box"/>
+    </imgdir>
+    <imgdir name="9700065">
+        <string name="name" value="bomb2"/>
+    </imgdir>
+    <imgdir name="9402170">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402171">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402172">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402173">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402174">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
     <imgdir name="100000">
         <string name="name" value="Snail"/>
     </imgdir>

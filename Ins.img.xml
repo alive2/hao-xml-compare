@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Ins.img">
+    <imgdir name="3019701">
+        <string name="name" value="Zombie Bean Chair"/>
+        <string name="desc" value="It&apos;s Pink Bean... but Zombified. Restores 666 HP per 10 Seconds while sitting. "/>
+    </imgdir>
+    <imgdir name="3018247">
+        <string name="name" value="Exclusive Holiday Party Chair"/>
+        <string name="desc" value="You have been invited to a small but very special holiday party. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3015694">
+        <string name="name" value="Pink Bean on Ice Chair"/>
+        <string name="desc" value="Poor Pink Bean is trapped in ice! Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015695">
+        <string name="name" value="Orange Mushroom on Ice Chair"/>
+        <string name="desc" value="That Orange Mushroom must be pretty chilly. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015696">
+        <string name="name" value="Slime on Ice Chair"/>
+        <string name="desc" value="That Slime isn&apos;t so squishy now! Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015697">
+        <string name="name" value="Bone Fish on Ice Chair"/>
+        <string name="desc" value="That&apos;ll keep the Bone Fish nice and fresh.Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015698">
+        <string name="name" value="Cactus on Ice Chair"/>
+        <string name="desc" value="Oh, the irony of a frozen Cactus! Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015699">
+        <string name="name" value="Ribbon Pig on Ice Chair"/>
+        <string name="desc" value="Hope that ribbon is warmer than it looks. Recovers 50 HP and 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3019845">
+        <string name="name" value="Snoozing Horntail"/>
+        <string name="desc" value="This chair came in 1st place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Inusama&apos;."/>
+    </imgdir>
+    <imgdir name="3019846">
+        <string name="name" value="Beginner Skill Tree"/>
+        <string name="desc" value="This chair came in 2nd place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Jooon&apos;."/>
+    </imgdir>
+    <imgdir name="3019847">
+        <string name="name" value="Time Attack Trial"/>
+        <string name="desc" value="This chair came in 3rd place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Inugami&apos;."/>
+    </imgdir>
+    <imgdir name="3019848">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;IronShichika&apos;."/>
+        <string name="name" value="Cuddling With Eliza"/>
+    </imgdir>
+    <imgdir name="3019849">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Marrry&apos;."/>
+        <string name="name" value="Omok Against Taggrin"/>
+    </imgdir>
+    <imgdir name="3019850">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;ilyssia&apos;."/>
+        <string name="name" value="Blackboard"/>
+    </imgdir>
+    <imgdir name="3019851">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;JinJinChuChu&apos;."/>
+        <string name="name" value="I&apos;m Just A Grass Standee"/>
+    </imgdir>
+    <imgdir name="3019852">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Doton&apos;."/>
+        <string name="name" value="Snow Buddies"/>
+    </imgdir>
+    <imgdir name="3019853">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;CitizenLenny&apos;."/>
+        <string name="name" value="Picture Day"/>
+    </imgdir>
+    <imgdir name="3019854">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Shanni&apos;."/>
+        <string name="name" value="Cozy Homework Time"/>
+    </imgdir>
+    <imgdir name="3018520">
+        <string name="name" value="Green Pea"/>
+        <string name="desc" value="The green peas look very happy. Restores 100 HP and 100 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3019911">
+        <string name="name" value="Emperor Toad Chair"/>
+        <string name="desc" value="Sit by this giant, grotesque toad. Recovers 80 HP, 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3019912">
+        <string name="name" value="Auf Haven Chair"/>
+        <string name="desc" value="Have a rest on this bench with Auf Haven after a long battle. Recovers 100 HP, 100 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3019913">
+        <string name="name" value="Vergamot Chair"/>
+        <string name="desc" value="Let the robot commander, Vergamot, watch over you. Recovers 50 HP, 50 MP every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015935">
+        <string name="name" value="Mirror Chair"/>
+        <string name="desc" value="#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017046">
+        <string name="name" value="Chinese Zodiac Cube Chair: Tiger"/>
+        <string name="desc" value="A chair commemorating the Zodiac Tiger! #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017056">
+        <string name="name" value="Lunar New Year Xing Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017057">
+        <string name="name" value="Lunar New Year Nian Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017058">
+        <string name="name" value="Lunar New Year Kuai Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017059">
+        <string name="name" value="Lunar New Year Le Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3015713">
+        <string name="name" value="Choco Syringe Chair"/>
+        <string name="desc" value="True love cannot be expressed through chocolate, but only a confession of the heart! Save the world from the chocolate onslaught by devouring it!\r\nRecovers 200 HP and 200 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3018428">
+        <string name="name" value="Giant Teddy Bear Chair"/>
+        <string name="desc" value="Sink into the soft and comfy security of this Giant Teddy Bear chair. Everyone deserves a break sometimes.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
     <imgdir name="3010000">
         <string name="name" value="The Relaxer"/>
         <string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
@@ -937,10 +1057,6 @@
     <imgdir name="3994139">
         <string name="name" value="Maha Charm"/>
         <string name="desc" value="A charm that contains protection from Maha, the spirit of Polearm. Take this to Cassandra for a chance to answer questions and receive prizes."/>
-    </imgdir>
-    <imgdir name="3010101">
-        <string name="name" value="Christmas Gift Box"/>
-        <string name="desc" value="A huge X-mas Gift Box big enough to fit a grownup. It has a message that reads, &quot;I am here for you.&quot; Sitting in it will recover 50 HP and MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010073">
         <string name="name" value="Giant Pink Bean Cushion"/>

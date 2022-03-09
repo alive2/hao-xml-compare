@@ -1,5 +1,287 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Skill.img">
+    <imgdir name="9101006">
+        <string name="name" value="Super Dragon Roar"/>
+        <string name="desc" value="[Master Level : 1]\n Super Dragon Roar"/>
+        <string name="h1" value="Damage 1000%, Full Screen Attack"/>
+    </imgdir>
+    <imgdir name="9101007">
+        <string name="name" value="Teleport"/>
+        <string name="desc" value="[Master Level : 1]\n Teleport"/>
+        <string name="h1" value="Teleport "/>
+    </imgdir>
+    <imgdir name="1101002">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword.\nRequired Skill : #cAt least Level 3 on Sword Mastery#"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+        <string name="name" value="Final Attack : Sword"/>
+    </imgdir>
+    <imgdir name="1101003">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand axe.\nRequired Skill : #cAt least Level 3 on Axe Mastery#"/>
+        <string name="name" value="Final Attack : Axe"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="1201002">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand sword.\nRequired Skill : #cAt least Level 3 on Sword Mastery#"/>
+        <string name="name" value="Final Attack : Sword"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="1201003">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand blunt weapon.\nRequired Skill : #cAt least Level 3 on BW Mastery#"/>
+        <string name="name" value="Final Attack : BW"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="1301002">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand spear.\nRequired Skill : #cAt least Level 3 on Spear Mastery#"/>
+        <string name="name" value="Final Attack : Spear"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="1301003">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a one-hand or two-hand pole arm.\nRequired Skill : #cAt least Level 3 on Pole Arm Mastery#"/>
+        <string name="name" value="Final Attack : Pole Arm"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="3101001">
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a bow.\nRequired Skill : #cAt least Level 3 on Bow Mastery#"/>
+        <string name="name" value="Final Attack : Bow"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
+    <imgdir name="3201001">
+        <string name="name" value="Final Attack : Crossbow"/>
+        <string name="desc" value="[Master Level : 30]\nStrikes an another, far deadlier blow following the initial attack with a given success rate. It works only when holding a crossbow.\nRequired Skill : #cAt least Level 3 on Crossbow Mastery#"/>
+        <string name="h1" value="MP -5, Activates 105% damage Final Attack at 2% success rate for 155 sec. "/>
+        <string name="h10" value="MP -5, Activates 150% damage Final Attack at 20% success rate for 200 sec. "/>
+        <string name="h11" value="MP -10, Activates 155% damage Final Attack at 22% success rate for 205 sec. "/>
+        <string name="h12" value="MP -10, Activates 160% damage Final Attack at 24% success rate for 210 sec. "/>
+        <string name="h13" value="MP -10, Activates 165% damage Final Attack at 26% success rate for 215 sec. "/>
+        <string name="h14" value="MP -10, Activates 170% damage Final Attack at 28% success rate for 220 sec. "/>
+        <string name="h15" value="MP -10, Activates 175% damage Final Attack at 30% success rate for 225 sec. "/>
+        <string name="h16" value="MP -10, Activates 180% damage Final Attack at 32% success rate for 230 sec. "/>
+        <string name="h17" value="MP -10, Activates 185% damage Final Attack at 34% success rate for 235 sec. "/>
+        <string name="h18" value="MP -10, Activates 190% damage Final Attack at 36% success rate for 240 sec. "/>
+        <string name="h19" value="MP -10, Activates 195% damage Final Attack at 38% success rate for 245 sec. "/>
+        <string name="h2" value="MP -5, Activates 110% damage Final Attack at 4% success rate for 160 sec. "/>
+        <string name="h20" value="MP -10, Activates 200% damage Final Attack at 40% success rate for 250 sec. "/>
+        <string name="h21" value="MP -15, Activates 205% damage Final Attack at 42% success rate for 255 sec. "/>
+        <string name="h22" value="MP -15, Activates 210% damage Final Attack at 44% success rate for 260 sec. "/>
+        <string name="h23" value="MP -15, Activates 215% damage Final Attack at 46% success rate for 265 sec. "/>
+        <string name="h24" value="MP -15, Activates 220% damage Final Attack at 48% success rate for 270 sec. "/>
+        <string name="h25" value="MP -15, Activates 225% damage Final Attack at 50% success rate for 275 sec. "/>
+        <string name="h26" value="MP -15, Activates 230% damage Final Attack at 52% success rate for 280 sec. "/>
+        <string name="h27" value="MP -15, Activates 235% damage Final Attack at 54% success rate for 285 sec. "/>
+        <string name="h28" value="MP -15, Activates 240% damage Final Attack at 56% success rate for 290 sec. "/>
+        <string name="h29" value="MP -15, Activates 245% damage Final Attack at 58% success rate for 295 sec. "/>
+        <string name="h3" value="MP -5, Activates 115% damage Final Attack at 6% success rate for 165 sec. "/>
+        <string name="h30" value="MP -15, Activates 250% damage Final Attack at 60% success rate for 300 sec. "/>
+        <string name="h4" value="MP -5, Activates 120% damage Final Attack at 8% success rate for 170 sec."/>
+        <string name="h5" value="MP -5, Activates 125% damage Final Attack at 10% success rate for 175 sec. "/>
+        <string name="h6" value="MP -5, Activates 130% damage Final Attack at 12% success rate for 180 sec. "/>
+        <string name="h7" value="MP -5, Activates 135% damage Final Attack at 14% success rate for 185 sec. "/>
+        <string name="h8" value="MP -5, Activates 140% damage Final Attack at 16% success rate for 190 sec. "/>
+        <string name="h9" value="MP -5, Activates 145% damage Final Attack at 18% success rate for 195 sec. "/>
+    </imgdir>
     <imgdir name="000">
         <string name="bookName" value="Beginner&apos;s Basics"/>
     </imgdir>

@@ -1,6 +1,1456 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Etc.img">
     <imgdir name="Etc">
+        <imgdir name="4031867">
+            <string name="name" value="A secret letter"/>
+            <string name="desc" value="A secret letter that contains information about the traitorous MV.  Needs to be delivered to Charles the Adventurer."/>
+        </imgdir>
+        <imgdir name="4000275">
+            <string name="name" value="Broken Horn"/>
+            <string name="desc" value="A horn that used to adorn the head of Skelegon. It&apos;s now broken off."/>
+        </imgdir>
+        <imgdir name="4031294">
+            <string name="name" value="Dog Food"/>
+        </imgdir>
+        <imgdir name="4031627">
+            <string name="name" value="Whitebait (3cm)"/>
+            <string name="desc" value="It measures 3cm in length, with high nutritional value, and it is suitable for steaming with the egg ingredients. It is delicious &amp; low in fats."/>
+        </imgdir>
+        <imgdir name="4031628">
+            <string name="name" value="Sailfish (120cm)"/>
+            <string name="desc" value="It measures 120cm in length, containing protein, calcium, magnesium and vitamin D that a human body needs. It is a very healthy seafood."/>
+        </imgdir>
+        <imgdir name="4031629">
+            <string name="name" value="Pot"/>
+            <string name="desc" value="This superior heat conduction pot is easy to clean, and it is very suitable for those who are on diet."/>
+        </imgdir>
+        <imgdir name="4031630">
+            <string name="name" value="Carp (30cm)"/>
+            <string name="desc" value="It measures 30cm in length, with rich protein contents. It has the essential quantity of amino acids that a human body needs."/>
+        </imgdir>
+        <imgdir name="4031631">
+            <string name="name" value="Salmon(150cm)"/>
+            <string name="desc" value="It measures 150cm in length, with green and tender flesh. It is always the first choice in Sashimi."/>
+        </imgdir>
+        <imgdir name="4031632">
+            <string name="name" value="Shovel"/>
+            <string name="desc" value="An equipment used for stir-frying dishes"/>
+        </imgdir>
+        <imgdir name="4031633">
+            <string name="name" value="Whitebait (3.6cm)"/>
+            <string name="desc" value="It measures 3.6cm in length, with high nutritional value, and it is suitable for steaming with the egg ingredients. It is delicious &amp; low in fats."/>
+        </imgdir>
+        <imgdir name="4031634">
+            <string name="name" value="Whitebait (5cm)"/>
+            <string name="desc" value="It measures 5cm in length, with high nutritional value, and it is suitable for steaming with the egg ingredients. It is delicious &amp; low in fats."/>
+        </imgdir>
+        <imgdir name="4031635">
+            <string name="name" value="Whitebait (6.5cm)"/>
+            <string name="desc" value="It measures 6.5cm in length, with high nutritional value, and it is suitable for steaming with the egg ingredients. It is delicious &amp; low in fats."/>
+        </imgdir>
+        <imgdir name="4031636">
+            <string name="name" value="Whitebait (10cm)"/>
+            <string name="desc" value="It measures 10cm in length, with high nutritional value, and it is suitable for steaming with the egg ingredients. It is delicious &amp; low in fats."/>
+        </imgdir>
+        <imgdir name="4031637">
+            <string name="name" value="Carp (53cm)"/>
+            <string name="desc" value="It measures 53cm in length, with rich protein contents. It has the essential quantity of amino acids that a human body needs."/>
+        </imgdir>
+        <imgdir name="4031638">
+            <string name="name" value="Carp (60cm)"/>
+            <string name="desc" value="It measures 60cm in length, with rich protein contents. It has the essential quantity of amino acids that a human body needs."/>
+        </imgdir>
+        <imgdir name="4031639">
+            <string name="name" value="Carp (100cm)"/>
+            <string name="desc" value="It measures 100cm in length, with rich protein contents. It has the essential quantity of amino acids that a human body needs."/>
+        </imgdir>
+        <imgdir name="4031640">
+            <string name="name" value="Carp (113cm)"/>
+            <string name="desc" value="It measures 113cm in length, with rich protein contents. It has the essential quantity of amino acids that a human body needs."/>
+        </imgdir>
+        <imgdir name="4031641">
+            <string name="name" value="Sailfish (128cm)"/>
+            <string name="desc" value="It measures 128cm in length, containing protein, calcium, magnesium and vitamin D that a human body needs. It is a very healthy seafood."/>
+        </imgdir>
+        <imgdir name="4031642">
+            <string name="name" value="Sailfish (131cm)"/>
+            <string name="desc" value="It measures 131cm in length, containing protein, calcium, magnesium and vitamin D that a human body needs. It is a very healthy seafood."/>
+        </imgdir>
+        <imgdir name="4031643">
+            <string name="name" value="Sailfish (140cm)"/>
+            <string name="desc" value="It measures 140cm in length, containing protein, calcium, magnesium and vitamin D that a human body needs. It is a very healthy seafood."/>
+        </imgdir>
+        <imgdir name="4031644">
+            <string name="name" value="Sailfish (148cm)"/>
+            <string name="desc" value="It measures 148cm in length, containing protein, calcium, magnesium and vitamin D that a human body needs. It is a very healthy seafood."/>
+        </imgdir>
+        <imgdir name="4031645">
+            <string name="name" value="Salmon (166cm)"/>
+            <string name="desc" value="It measures 166cm in length, with green and tender flesh. It is always the first choice in Sashimi."/>
+        </imgdir>
+        <imgdir name="4031646">
+            <string name="name" value="Salmon (183cm)"/>
+            <string name="desc" value="It measures 183cm in length, with green and tender flesh. It is always the first choice in Sashimi."/>
+        </imgdir>
+        <imgdir name="4031647">
+            <string name="name" value="Salmon (227cm)"/>
+            <string name="desc" value="It measures 227cm in length, with green and tender flesh. It is always the first choice in Sashimi."/>
+        </imgdir>
+        <imgdir name="4031648">
+            <string name="name" value="Salmon (288cm)"/>
+            <string name="desc" value="It measures 288cm in length, with green and tender flesh. It is always the first choice in Sashimi."/>
+        </imgdir>
+        <imgdir name="4031795">
+            <string name="name" value="Cat Doll Under a Spell"/>
+            <string name="desc" value="A cat doll from Sage Cat with a spell from Do Gong."/>
+        </imgdir>
+        <imgdir name="4001150">
+            <string name="name" value="Baekcho Village"/>
+            <string name="desc" value="Baekcho Village"/>
+        </imgdir>
+        <imgdir name="4032526">
+            <string name="name" value="John&apos;s Map"/>
+            <string name="desc" value="John&apos;s map that contains information on some island. That island is said to be the place where the dragon lies asleep."/>
+        </imgdir>
+        <imgdir name="4039000">
+            <string name="name" value="Romantic Present"/>
+            <string name="desc" value="A cute pink Valentine&apos;s gift - so romantic!"/>
+        </imgdir>
+        <imgdir name="4039001">
+            <string name="name" value="Pilgrim Hat Piece A"/>
+            <string name="desc" value="The first piece for the legendary Pilgrim Hat."/>
+        </imgdir>
+        <imgdir name="4039002">
+            <string name="name" value="Pilgrim Hat Piece B"/>
+            <string name="desc" value="The second piece for the legendary Pilgrim Hat."/>
+        </imgdir>
+        <imgdir name="4039003">
+            <string name="name" value="Pilgrim Hat Piece C"/>
+            <string name="desc" value="The third piece for the legendary Pilgrim Hat."/>
+        </imgdir>
+        <imgdir name="4039004">
+            <string name="name" value="Pilgrim Hat Piece D"/>
+            <string name="desc" value="The last piece for the legendary Pilgrim Hat. It&apos;s.. Extremely ugly.."/>
+        </imgdir>
+        <imgdir name="4000435">
+            <string name="name" value="Union Key"/>
+            <string name="desc" value="A mysterious golden key that unlocks a hidden secret."/>
+        </imgdir>
+        <imgdir name="4160025">
+            <string name="name" value="Pet Command Guide : White Monkey"/>
+            <string name="desc" value="A guide that has all the commands for the White Monkey.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160038">
+            <string name="name" value="Pet Command Guide : Toucan"/>
+            <string name="desc" value="A guide that has all the commands for the puppy.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160046">
+            <string name="name" value="Pet Command Guide: Baby Tiger"/>
+            <string name="desc" value="A guide that has all the commands for the Baby Tiger.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160047">
+            <string name="name" value="Pet Command Guide : Mir/Ruby"/>
+            <string name="desc" value="A guide that has all the commands for the pet Mir/Ruby\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160048">
+            <string name="name" value="Pet Command Guide: White Duck"/>
+            <string name="desc" value="A guide that has all the commands for the White Duck.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160049">
+            <string name="name" value="Pet Command Guide: Skunk"/>
+            <string name="desc" value="A guide that has all the commands for the Skunk.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160050">
+            <string name="name" value="Pet Command Guide : Bing Monkey"/>
+            <string name="desc" value="A guide that has all the commands for Visitor Research Monkey.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160052">
+            <string name="name" value="Pet Command Guide: Corgi Pup"/>
+            <string name="desc" value="A guide that has all the commands for the Corgi Pup.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160054">
+            <string name="name" value="Pet Command Guide: Persian Cat"/>
+            <string name="desc" value="A guide that has all the commands for the Persian Cat.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160055">
+            <string name="name" value="Pet Command Guide : Cake"/>
+            <string name="desc" value="A guide that has all the commands for the Cake pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160056">
+            <string name="name" value="Pet Command Guide : Pie"/>
+            <string name="desc" value="A guide that has all the commands for the Pie pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160057">
+            <string name="name" value="Pet Command Guide: Unicorn"/>
+            <string name="desc" value="A guide that has all the commands for the Unicorn.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160065">
+            <string name="name" value="Pet Command Guide : Shark"/>
+            <string name="desc" value="A guide that has all the commands for Shark.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160066">
+            <string name="name" value="Pet Command Guide: Pink Bean"/>
+            <string name="desc" value="A guide that has all the commands for Pink Bean.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160067">
+            <string name="name" value="Pet Guide: Craw"/>
+            <string name="desc" value="A guide containing all the commands for Craw.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160068">
+            <string name="name" value="Pet Guide: Adriano"/>
+            <string name="desc" value="A guide containing all the commands for Adriano.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160069">
+            <string name="name" value="Pet Guide: Bonkey"/>
+            <string name="desc" value="A guide containing all the commands for Bonkey.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160070">
+            <string name="name" value="Pet Command Guide: Corgi Pup"/>
+            <string name="desc" value="A guide to all the commands your Corgi Pup can learn.\n#cDouble-click to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160071">
+            <string name="name" value="Pet Guide: Dragon"/>
+            <string name="desc" value="A guide containing all the commands for Dragon.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160072">
+            <string name="name" value="Pet Command Guide: Fennec Fox"/>
+            <string name="desc" value="A guide that has all the commands for Fennec Fox.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160073">
+            <string name="name" value="Pet Command Guide: Pirate Parrot"/>
+            <string name="desc" value="A guide that has all the commands for the Pirate Parrot.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160074">
+            <string name="name" value="Pet Guide: Demon"/>
+            <string name="desc" value="A guide containing all the commands for Demon.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160075">
+            <string name="name" value="Pet Command Guide: Chunky Raccoon"/>
+            <string name="desc" value="A guide that has all the commands for the Chunky Raccoon.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160076">
+            <string name="name" value="Pet Command Guide: Burro"/>
+            <string name="desc" value="A guide that has all the commands for the Burro pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160077">
+            <string name="name" value="Hilla&apos;s Pet Command Guide: Blackheart"/>
+            <string name="desc" value="A guide that has all the commands for Blackheart.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160078">
+            <string name="name" value="Pet Command Guide: Harp Seal"/>
+            <string name="desc" value="A guide that has all the commands for the Harp Seal.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160079">
+            <string name="name" value="Pet Command Guide: Puffram"/>
+            <string name="desc" value="A guide that has all the commands for the Puffram.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160080">
+            <string name="name" value="Pet Command Guide: Gingerbready"/>
+            <string name="desc" value="A guide that has all the commands for the Gingerbready.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160081">
+            <string name="name" value="Pet Command Guide: Icy Knight"/>
+            <string name="desc" value="A guide that has all the commands for the Icy Knight.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160082">
+            <string name="name" value="Pet Command Guide: Demon"/>
+            <string name="desc" value="A guide that has all the commands for little Demons.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160083">
+            <string name="name" value="Pet Command Guide: Merlion"/>
+            <string name="desc" value="A guide that has all the commands for Merlion.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160084">
+            <string name="name" value="Pet Command Guide: Butterfly"/>
+            <string name="desc" value="A guide that has all the commands for Butterfly.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160087">
+            <string name="name" value="Pet Command Guide: Starwing"/>
+            <string name="desc" value="A guide that has all the commands for Starwing.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160088">
+            <string name="name" value="Pet Command Guide: Shark"/>
+            <string name="desc" value="A guide that has all the commands for a Shark.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160090">
+            <string name="name" value="Pet Command Guide: Dragon"/>
+            <string name="desc" value="A guide that has all the commands for a Dragon.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160092">
+            <string name="name" value="Pet Command Guide: Teddy"/>
+            <string name="desc" value="A guide that has all the commands for Teddy pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160094">
+            <string name="name" value="Pet Command Guide: Pumpkin"/>
+            <string name="desc" value="A guide that has all the commands for Pumpkin pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160096">
+            <string name="name" value="Pet Command Guide: Kangaroo"/>
+            <string name="desc" value="A guide that has all the commands for Kangaroo pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160097">
+            <string name="name" value="Pet Command Guide: Koalas"/>
+            <string name="desc" value="A guide that has all the commands for Koala pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160098">
+            <string name="name" value="Pet Command Guide: Squirrel"/>
+            <string name="desc" value="A guide that has all the commands for Chipmunk pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160100">
+            <string name="name" value="Pet Command Guide: Angels"/>
+            <string name="desc" value="A guide that has all the commands for Angels.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160103">
+            <string name="name" value="Pet Command Guide: Devils"/>
+            <string name="desc" value="A guide that has all the commands for Devils.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160104">
+            <string name="name" value="Pet Command Guide: Root Abyss"/>
+            <string name="desc" value="A guide that has all the commands for Root Abyss.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160105">
+            <string name="name" value="Pet Command Guide : Yeti Robo"/>
+            <string name="desc" value="A guide that has all the commands for Yeti Robo.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160106">
+            <string name="name" value="Pet Command Guide: Ice Knight"/>
+            <string name="desc" value="A guide that has all the commands for the Ice Knight. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160108">
+            <string name="name" value="Pet Command Guide: Stickman"/>
+            <string name="desc" value="A guide that has all the commands for Stickman. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160109">
+            <string name="name" value="Pet Command Guide: Jr. Commander"/>
+            <string name="desc" value="A guide that has all the commands for Jr. Commanders.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160110">
+            <string name="name" value="Pet Command Guide : Bandit"/>
+            <string name="desc" value="A guide that has all the commands for Bandit.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160111">
+            <string name="name" value="Pet Command Guide: Kangaroo"/>
+            <string name="desc" value="A guide that has all the commands for Kangaroo pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160113">
+            <string name="name" value="Pet Command Guide: Gollux"/>
+            <string name="desc" value="A guide that has all the commands for Gollux.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160115">
+            <string name="name" value="Pet Command Guide: Candle"/>
+            <string name="desc" value="A guide that has all the commands for Candles.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160116">
+            <string name="name" value="Pet Command Guide : RED Rudolph"/>
+            <string name="desc" value="A guide that has all the commands for the RED Rudolph.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160117">
+            <string name="name" value="Pet Command Guide : RED Yeti"/>
+            <string name="desc" value="A guidebook that details the commands that can be said to RED Yeti.#cDouble-click on the item to open the book.#"/>
+        </imgdir>
+        <imgdir name="4160118">
+            <string name="name" value="Pet Command Guide : RED Penguin"/>
+            <string name="desc" value="A guide that has all the commands for the RED Penguin.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160120">
+            <string name="name" value="Pet Command Guide: Happy Bean"/>
+            <string name="desc" value="A guide that has all the commands for Happy Beans.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160121">
+            <string name="name" value="Pet Command Guide: Li&apos;l Lai"/>
+            <string name="desc" value="A guide that has all the commands for Li&apos;l Lai.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160122">
+            <string name="name" value="Pet Command Guide: Li&apos;l Fort"/>
+            <string name="desc" value="A guide that has all the commands for Li&apos;l Fort.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160123">
+            <string name="name" value="Pet Command Guide: Li&apos;l Arby"/>
+            <string name="desc" value="A guide that has all the commands for Li&apos;l Arby.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160124">
+            <string name="name" value="Pet Command Guide: Pengy"/>
+            <string name="desc" value="A guide that has all the commands for Pengys.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160126">
+            <string name="name" value="Pet Command Guide: Toto"/>
+            <string name="desc" value="A guide that has all the commands for Totos.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160128">
+            <string name="name" value="Pet Command Guide: Abel/Axel/Adel"/>
+            <string name="desc" value="A guide that contains all the commands for Abel, Axel, and Adel.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160129">
+            <string name="name" value="Pet Command Guide: Lil Moonbeam"/>
+            <string name="desc" value="A guide that contains all the commands for your Lil Moonbeam pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160133">
+            <string name="name" value="Pet Command Guide : Bing Monkey"/>
+            <string name="desc" value="A guide that has all the commands for Visitor Research Monkey.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160135">
+            <string name="name" value="Pet Command Guide: Toy World"/>
+            <string name="desc" value="A guide that has all the commands for the Toy World pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160136">
+            <string name="name" value="Pet Command Guide: Chameleon"/>
+            <string name="desc" value="A guide that has all the commands for Chameleon pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160137">
+            <string name="name" value="Pet Command Guide: Shining Star"/>
+            <string name="desc" value="A guide that has all the commands for the Shining Star pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160138">
+            <string name="name" value="Pet Command Guide: Lil&apos; Bobble"/>
+            <string name="desc" value="A guide that has all the commands for Lil&apos; Bobble.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160139">
+            <string name="name" value="Pet Command Guide: Black Heaven Pets"/>
+            <string name="desc" value="A guide that has all the commands for Black Heaven pets. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160140">
+            <string name="name" value="Pet Command Guide: Fluffram"/>
+            <string name="desc" value="A guide that has all the commands for Fluffram.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160146">
+            <string name="name" value="Pet Command Guide : Tea"/>
+            <string name="desc" value="A guide that has all the commands for Visitor Research Monkey.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4161052">
+            <string name="name" value="Evan Guide "/>
+            <string name="desc" value="A guide for Evan. \n#cYou can open the book by double-clicking on it.#"/>
+        </imgdir>
+        <imgdir name="4161079">
+            <string name="name" value="Mercedes Guide"/>
+            <string name="desc" value="A guide for Mercedes. \n#cDouble-click to open it.#"/>
+        </imgdir>
+        <imgdir name="4161080">
+            <string name="name" value="Aria&apos;s Diary"/>
+            <string name="desc" value="Part of a diary written by Aria. It&apos;s full of personal things, but has been damaged to the point that there are only few sections that you can actually read.\n#cDouble-click on the item to open the book.#"/>
+        </imgdir>
+        <imgdir name="4161081">
+            <string name="name" value="Mesoranger Action Guide"/>
+            <string name="desc" value="You, too, can become a Mesoranger! A guide that helps anyones with becoming a Mesoranger."/>
+        </imgdir>
+        <imgdir name="4162000">
+            <string name="name" value="7th Anniversary Diary"/>
+            <string name="desc" value="A diary in which you can read all about the 7th Anniversary event. You can also see how close you are to earning a Joyous 7th Medal and your progress on the Rising Star mission. \n#cDouble-click to read.#"/>
+        </imgdir>
+        <imgdir name="4162001">
+            <string name="name" value="Chivalry Log"/>
+            <string name="desc" value="A book which can be used to check event paricipation status.\r\n#cDouble-click on it to check your participation, as well as rewards.#"/>
+        </imgdir>
+        <imgdir name="4162002">
+            <string name="name" value="Tasty Watermelon Farming Journal"/>
+            <string name="desc" value="A farming journal in which you can check the number days spent cultivating Tasty Watermelons.\r\n#cDouble-click on it to check your progress.#"/>
+        </imgdir>
+        <imgdir name="4162003">
+            <string name="name" value="Secret Heat-Beating Recipe"/>
+            <string name="desc" value="A secret recipe book in which you can check your progress in Special Fruit Sundae crafting.\r\n#cDouble-click on it to check your participation status and rewards.#"/>
+        </imgdir>
+        <imgdir name="4162004">
+            <string name="name" value="Pirate Treasure Map Book"/>
+            <string name="desc" value="A collection of pirate treasure maps.\r\n#cDouble-click on it to check your participation status and rewards.#"/>
+        </imgdir>
+        <imgdir name="4162005">
+            <string name="name" value="Monkey Doll Recovery Record"/>
+            <string name="desc" value="A book which can be used to check how many Monkey Dolls you have recovered.\r\n#cDouble-click on it to check your recovery status and rewards.#"/>
+        </imgdir>
+        <imgdir name="4162006">
+            <string name="name" value="Legendary Fruit Juice Book"/>
+            <string name="desc" value="A secret guide to making legendary fruit juices. This is just what you need to become a Legendary Fruit Juice Master! You can also record your juice-making triumphs in here.\r\n#cDouble-click on it to check your current juice-making record.#"/>
+        </imgdir>
+        <imgdir name="4162007">
+            <string name="name" value="Eco Mapleteer Strategy Journal"/>
+            <string name="desc" value="A strategy journal that records all the activities of Eco Mapleteers. If you use the Going Green skill once a day, mark it down in this book.\r\n#cDouble-click on it to check your Eco Mapleteer activity record.#"/>
+        </imgdir>
+        <imgdir name="4162008">
+            <string name="name" value="Monster Mop-Up Journal"/>
+            <string name="desc" value="A monster mop-up journal from the Administrator. You can receive a stamp in it once a day by defeating 200 monsters.\r\n#cDouble-click on it to check your monster mop-up record and rewards.#"/>
+        </imgdir>
+        <imgdir name="4162009">
+            <string name="name" value="Memory Journal"/>
+            <string name="desc" value="Record your memories from Legends, and make them last forever! By receiving and completing a Making Memories event once a day, your memories will be automatically recorded. Double-click to check."/>
+        </imgdir>
+        <imgdir name="4162010">
+            <string name="name" value="Mini Maple Tree Cultivation Journal"/>
+            <string name="desc" value="A journal for recording your progress in cultivating the Mini Maple Tree.\r\n#cDouble-click on it to check your progress.#"/>
+        </imgdir>
+        <imgdir name="4162011">
+            <string name="name" value="Christmas Tree Journal"/>
+            <string name="desc" value="A journal for recording your progress in growing your very own Christmas Tree. Click on it to open it."/>
+        </imgdir>
+        <imgdir name="4162012">
+            <string name="name" value="Legends Awards Application"/>
+            <string name="desc" value="An application you received from Gaga. Open it up to view a list of events you can partake in for awards."/>
+        </imgdir>
+        <imgdir name="4162013">
+            <string name="name" value="Rock-Paper-Scissors Score Card"/>
+            <string name="desc" value="A score card for recording your wins and losses from playing Gaga."/>
+        </imgdir>
+        <imgdir name="4162014">
+            <string name="name" value="Training Journal"/>
+            <string name="desc" value="A training journal that records up to 10 days. "/>
+        </imgdir>
+        <imgdir name="4039005">
+            <string name="name" value="Plump Pumpkin Box"/>
+            <string name="desc" value="A Pumpkin shaped box.\n#cGive it to Witchy Woman for a reward#."/>
+        </imgdir>
+        <imgdir name="4031532">
+            <string name="name" value="NX Cash Card - 5000 Points"/>
+            <string name="desc" value="An NX cash card worth 5000 points. Redeemable in the Cash Shop."/>
+        </imgdir>
+        <imgdir name="4031598">
+            <string name="name" value="4th Anniversary Candle"/>
+            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 4th Anniversary Event."/>
+        </imgdir>
+        <imgdir name="4160095">
+            <string name="name" value="Pet Command Guide: Sassy Snake"/>
+            <string name="desc" value="A guide that has all the commands for Sassy Snake pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4039006">
+            <string name="name" value="Blin&apos;s Flame"/>
+            <string name="desc" value="The core of Blin. Its flame burns with immense brightness, however it is cold to the touch."/>
+        </imgdir>
+        <imgdir name="4039007">
+            <string name="name" value="Dragonfire Ring"/>
+            <string name="desc" value="A very heavy metal ring. It is decorated with the skull of a dragon and looks incredibly old. Perhaps this is the ring that Chun Ji lost?"/>
+        </imgdir>
+        <imgdir name="4039008">
+            <string name="name" value="Dragonglass Shard"/>
+            <string name="desc" value="A small shard of what looks almost like ice. It feels very heavy and glows dimly in the dark."/>
+        </imgdir>
+        <imgdir name="4039009">
+            <string name="name" value="Hardened Crystal Flask"/>
+            <string name="desc" value="An empty flask made by Porter. It is made of a classified material, and is very lightweight."/>
+        </imgdir>
+        <imgdir name="4039010">
+            <string name="name" value="Inert Mysterious Substance"/>
+            <string name="desc" value="A gooey substance with a pungent smell. It&apos;s warm, but not too hot to touch. Hopefully this is what Chun Ji needed for the ritual."/>
+        </imgdir>
+        <imgdir name="4039011">
+            <string name="name" value="Powerless Breath of Lava"/>
+            <string name="desc" value="Chun Ji conjured up this liquid that has the potential to become The Breath of Lava... it is however lacking the final component... magic."/>
+        </imgdir>
+        <imgdir name="4007009">
+            <string name="name" value="Blind Eye Tail"/>
+            <string name="desc" value="Joel get something written up!"/>
+        </imgdir>
+        <imgdir name="4039012">
+            <string name="desc" value="A small shard of what looks almost like ice. It feels very heavy and glows dimly in the dark."/>
+            <string name="name" value="Dragonglass Shard"/>
+        </imgdir>
+        <imgdir name="4039013">
+            <string name="name" value="Billion Meso Coin"/>
+            <string name="desc" value="A shiny coin worth 1 billion mesos, useful for trading large sums of money. This item can be sold in an NPC shop for 1 billion mesos at any time. When trading to another player, a tax fee of 30 million mesos per Billion Meso Coin will be deducted automatically from your inventory.
+#cThis item cannot be dropped.#
+#cThis item cannot be sold in a personal store/merchant."/>
+        </imgdir>
+        <imgdir name="4039014">
+            <string name="name" value="Mystery Gift Box"/>
+            <string name="desc" value="A mystery gift box signed with the name &quot;Mrs. Claus&quot;."/>
+        </imgdir>
+        <imgdir name="4039015">
+            <string name="name" value="Swirly Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039016">
+            <string name="name" value="Wavy Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039017">
+            <string name="name" value="Striped Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039018">
+            <string name="name" value="Dotted Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039019">
+            <string name="name" value="Flowery Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039020">
+            <string name="name" value="Golden Egg"/>
+            <string name="desc" value="One of the special eggs for Mad Bunny&apos;s grand egg hunt. It looks quite unique, and is surprisingly heavy."/>
+        </imgdir>
+        <imgdir name="4039021">
+            <string name="name" value="Empty Chalice"/>
+            <string name="desc" value="Mar the Fairy&apos;s enchanted chalice. When filled with truly pure, magic water, it is said that drinking from it will restore one&apos;s youth and vitality."/>
+        </imgdir>
+        <imgdir name="4039022">
+            <string name="name" value="Empty Chalice"/>
+            <string name="desc" value="Mar the Fairy&apos;s enchanted chalice. When filled with truly pure, magic water, it is said that drinking from it will restore one&apos;s youth and vitality."/>
+        </imgdir>
+        <imgdir name="4160141">
+            <string name="name" value="Pet Command Guide : Tea Time"/>
+            <string name="desc" value="A guide that has all the commands for Tea Time Pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4031599">
+            <string name="name" value="5th anniversary candle"/>
+            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 5th Anniversary Event."/>
+        </imgdir>
+        <imgdir name="4000407">
+            <string name="name" value="Bronze Heart"/>
+            <string name="desc" value="The core that powers the Bronze Monk. It&apos;s also studied for other mechanisms."/>
+        </imgdir>
+        <imgdir name="4000406">
+            <string name="name" value="Golden Heart"/>
+            <string name="desc" value="The core that powers the Gold Monk. It&apos;s pure gold, so it&apos;s rarely studied for other mechanisms."/>
+        </imgdir>
+        <imgdir name="4000405">
+            <string name="name" value="Giant Silver Monk&apos;s blunt weapon"/>
+            <string name="desc" value="Giant Silver Monk&apos;s weapon, able to easily crush any object."/>
+        </imgdir>
+        <imgdir name="4000404">
+            <string name="name" value="Giant Gold Monk&apos;s Blunt Weapon"/>
+            <string name="desc" value="Giant Gold Monk&apos;s weapon, heavy and destructive."/>
+        </imgdir>
+        <imgdir name="4000403">
+            <string name="name" value="Jade Prayer Beads"/>
+            <string name="desc" value="Prayer beads blessed by a revered monk, 108 beads in total. They were stolen by the monsters near the temple because of poor custody."/>
+        </imgdir>
+        <imgdir name="4000402">
+            <string name="name" value="Silver Heart"/>
+            <string name="desc" value="The core that powers the Silver Monk. It&apos;s pure silver, so it&apos;s rarely studied for other mechanisms."/>
+        </imgdir>
+        <imgdir name="4000401">
+            <string name="name" value="Bronze Monk&apos;s Prayer Beads"/>
+            <string name="desc" value="Bronze Monk&apos;s weapon, small but powerful."/>
+        </imgdir>
+        <imgdir name="4000398">
+            <string name="name" value="Temple Block Sphere"/>
+            <string name="desc" value="The crystal of the Temple Block Monster&apos;s powers. Useless in the hands of human beings."/>
+        </imgdir>
+        <imgdir name="4000397">
+            <string name="name" value="Burglar&apos;s Leg Bindings"/>
+            <string name="desc" value="The leg bindings often used by the Burglars to prevent pant legs from flapping in the wind."/>
+        </imgdir>
+        <imgdir name="4000396">
+            <string name="name" value="Burglar&apos;s Wrist Guard"/>
+            <string name="desc" value="The wrist guard often used by the Burglars to protect their wrists while climbing."/>
+        </imgdir>
+        <imgdir name="4000394">
+            <string name="name" value="White Tiger&apos;s Tail"/>
+            <string name="desc" value="The beautiful White Tiger Tail. In the past, only warlords can have it."/>
+        </imgdir>
+        <imgdir name="4000393">
+            <string name="name" value="Black Bear&apos;s Nails"/>
+            <string name="desc" value="The nails of the Black Bear&apos;s front paws. They are never filed, so they are long and sharp."/>
+        </imgdir>
+        <imgdir name="4000395">
+            <string name="name" value="Giant Eagle&apos;s Feather"/>
+            <string name="desc" value="The feather of the Giant Eagle&apos;s wings. It is said to control the powers of the wind."/>
+        </imgdir>
+        <imgdir name="4031787">
+            <string name="name" value="Guoqing letter"/>
+            <string name="desc" value="Guoqing’s letter to Xuzhu reporting that he is safe."/>
+        </imgdir>
+        <imgdir name="4031786">
+            <string name="name" value="Xuzhu&apos;s Letter"/>
+            <string name="desc" value="Xuzhu’s letter to Guoqing asking for his whereabouts."/>
+        </imgdir>
+        <imgdir name="4031729">
+            <string name="name" value="A slice of Ham"/>
+            <string name="desc" value="A slice of Ham that looks tasty."/>
+        </imgdir>
+        <imgdir name="4031730">
+            <string name="name" value="A small tomato"/>
+            <string name="desc" value="A small tomato taken out of the Giant Tomato."/>
+        </imgdir>
+        <imgdir name="4032033">
+            <string name="name" value="Entrance pass for tomato farm 1 "/>
+            <string name="desc" value="It&apos;s a pass for the strange tomato farm. Talk to Ben to enter the inside of tomato farm."/>
+        </imgdir>
+        <imgdir name="4032034">
+            <string name="name" value="Entrance pass for tomato farm 2 "/>
+            <string name="desc" value="It&apos;s a pass for the strange tomato farm. Talk to Ben to enter the inside of tomato farm."/>
+        </imgdir>
+        <imgdir name="4031748">
+            <string name="name" value="Malt"/>
+            <string name="desc" value="One of the most important ingredients of the German Beer."/>
+        </imgdir>
+        <imgdir name="4031749">
+            <string name="name" value="Ticket to the Beer Tent"/>
+            <string name="desc" value="The ticket that allows you to enter the Beer tent."/>
+        </imgdir>
+        <imgdir name="4160142">
+            <string name="name" value="Pet Command Guide: Holoyeti"/>
+            <string name="desc" value="A guide that contains all the commands for your Holoyeti.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160143">
+            <string name="name" value="Pet Command Guide: Guardian Sheep"/>
+            <string name="desc" value="A guide that contains all the commands for your Guardian Sheep pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160147">
+            <string name="name" value="Pet Command Guide: Jr. Ryan"/>
+            <string name="desc" value="A guide that contains all the commands for Jr. Ryan.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160148">
+            <string name="name" value="Pet Command Guide: Jr. Sierra"/>
+            <string name="desc" value="A guide that contains all the commands for Jr. Sierra.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160149">
+            <string name="name" value="Pet Command Guide: Jr. Orchid"/>
+            <string name="desc" value="A guide that contains all the commands for Jr. Orchid.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160501">
+            <string name="name" value="Pet Command Guide: Fluffy Lily &amp; Baby Nero"/>
+            <string name="desc" value="A guide that contains all the commands for Fluffy Lily.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160500">
+            <string name="name" value="Pet Command Guide: Furry Elwin"/>
+            <string name="desc" value="A guide that contains all the commands for Furry Elwin.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4001512">
+            <string name="name" value="Ancient Artifact Contest 2x Point Ticket"/>
+            <string name="desc" value="This coupon allows you get points doubled during the Ancient Artifact Contest."/>
+        </imgdir>
+        <imgdir name="4009999">
+            <string name="name" value="2x Exp/Drop/Mesos Coupon"/>
+            <string name="desc" value="Increases the amount of Experience, Drops, and Mesos gained by 100%"/>
+        </imgdir>
+        <imgdir name="4009998">
+            <string name="desc" value="Increases the amount of Experience, Drops, and Mesos gained by 50%"/>
+            <string name="name" value="1.5x Exp/Drop/Mesos Coupon"/>
+        </imgdir>
+        <imgdir name="4032181">
+            <string name="name" value="Silver Coin"/>
+            <string name="desc" value="The coin of choice for residents of Neo Tokyo. Can be used for various trading purposes."/>
+        </imgdir>
+        <imgdir name="4032180">
+            <string name="name" value="Eruwater Transmitter"/>
+            <string name="desc" value="A transmitter attached to Eruwater. Consists of a clear case with electronic device inside."/>
+        </imgdir>
+        <imgdir name="4020010">
+            <string name="name" value="Sealed Warrior Stone"/>
+            <string name="desc" value="A sealed warrior stone."/>
+        </imgdir>
+        <imgdir name="4020011">
+            <string name="name" value="Sealed Wiseman Stone"/>
+            <string name="desc" value="A sealed wiseman stone."/>
+        </imgdir>
+        <imgdir name="4020012">
+            <string name="name" value="Sealed Saint Stone"/>
+            <string name="desc" value="A sealed saint stone."/>
+        </imgdir>
+        <imgdir name="4031600">
+            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 6th Anniversary Event."/>
+            <string name="name" value="6th Anniversary Candle"/>
+        </imgdir>
+        <imgdir name="4032359">
+            <string name="name" value="Asia&apos;s Letter"/>
+            <string name="desc" value="A letter written by Asia addressed to Gritto."/>
+        </imgdir>
+        <imgdir name="4032360">
+            <string name="name" value="Gritto&apos;s Magic Crystal"/>
+            <string name="desc" value="A crystal that contains a portion of Gritto&apos;s magic powers."/>
+        </imgdir>
+        <imgdir name="4032361">
+            <string name="name" value="Operational Unit Particle"/>
+            <string name="desc" value="A particle of the operational unit that strengthened Dunas. What is this for…?"/>
+        </imgdir>
+        <imgdir name="4032192">
+            <string name="name" value="Energy Transmitter"/>
+            <string name="desc" value="A device that sends energy to the future. Destroying this will prevent Mavericks from resurrecting."/>
+        </imgdir>
+        <imgdir name="4032355">
+            <string name="name" value="Imperial Guard Shield"/>
+            <string name="desc" value="A shield for Imperial Guard."/>
+        </imgdir>
+        <imgdir name="4032356">
+            <string name="name" value="Royal Guard Medal"/>
+            <string name="desc" value="A medal for Royal Guard."/>
+        </imgdir>
+        <imgdir name="4031389">
+            <string name="name" value="Chai&apos;s Love Letter"/>
+            <string name="desc" value="A love letter written by Chai to be given to Nit. The letter consists of genuine, heartfelt messages towards Nid."/>
+        </imgdir>
+        <imgdir name="4031390">
+            <string name="name" value="Chai&apos;s Emerald Earing"/>
+            <string name="desc" value="A set of earrings made by Ponlaa for Chai to give Nit as presents, while letting his feelings known to her."/>
+        </imgdir>
+        <imgdir name="4031396">
+            <string name="name" value="Strange Flower"/>
+            <string name="desc" value="A strange flower Nit gave to use as part of the town ritual."/>
+        </imgdir>
+        <imgdir name="4031397">
+            <string name="name" value="Banana Leaf"/>
+            <string name="desc" value="A green banana leaf that is used to wrap around food that is being made."/>
+        </imgdir>
+        <imgdir name="4031398">
+            <string name="name" value="Sack of Rice"/>
+            <string name="desc" value="A sack full of rice given away by Lung Tup."/>
+        </imgdir>
+        <imgdir name="4031399">
+            <string name="name" value="Silk Thread"/>
+            <string name="desc" value="A ball of silk thread that is used for various rituals."/>
+        </imgdir>
+        <imgdir name="4031403">
+            <string name="name" value="Preserved Fruit Pot"/>
+            <string name="desc" value="A pot full of preserved fruits secretly owned by Pooyai Lee, unbeknownst to his wife."/>
+        </imgdir>
+        <imgdir name="4031404">
+            <string name="name" value="The Seducer"/>
+            <string name="desc" value="A seducing medicine that consists of interesting ingredients. Supposedly this will enable one to capture the heart of his or her crush."/>
+        </imgdir>
+        <imgdir name="4001440">
+            <string name="name" value="7th Anniversary Puzzle Piece A"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001441">
+            <string name="name" value="7th Anniversary Puzzle Piece B"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001442">
+            <string name="name" value="7th Anniversary Puzzle Piece C"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001443">
+            <string name="name" value="7th Anniversary Puzzle Piece D"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001444">
+            <string name="name" value="7th Anniversary Puzzle Piece E"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001445">
+            <string name="name" value="7th Anniversary Puzzle Piece F"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4001446">
+            <string name="name" value="7th Anniversary Puzzle Piece G"/>
+            <string name="desc" value="A piece of the 7th Anniversary Jigsaw Puzzle."/>
+        </imgdir>
+        <imgdir name="4161053">
+            <string name="name" value="Puzzle King Guide"/>
+            <string name="desc" value="A guide that has the information on how to obtain the 7th Anniversary Puzzle Pieces. Read this book and you can be a Puzzle King too!"/>
+        </imgdir>
+        <imgdir name="4220175">
+            <string name="name" value="7th Anniversary Jigsaw Puzzle"/>
+            <string name="desc" value="The 7th Anniversary Jigsaw Puzzle. Complete the puzzle to see a picture of a birthday party."/>
+        </imgdir>
+        <imgdir name="4032654">
+            <string name="name" value="Spade 6 Card"/>
+            <string name="desc" value="A 6 of Spades. Fits neatly up your sleeve."/>
+        </imgdir>
+        <imgdir name="4032655">
+            <string name="name" value="Diamond 6 Card"/>
+            <string name="desc" value="A 6 of Diamonds. Perfect for magic tricks."/>
+        </imgdir>
+        <imgdir name="4032656">
+            <string name="name" value="Heart 6 Card"/>
+            <string name="desc" value="A 6 of Hearts. One-fourth of a four-of-a-kind."/>
+        </imgdir>
+        <imgdir name="4032657">
+            <string name="name" value="Club 6 Card"/>
+            <string name="desc" value="A 6 of Clubs. Is this your card?"/>
+        </imgdir>
+        <imgdir name="4009997">
+            <string name="desc" value="Increases the amount of Experience, Drops, and Mesos gained by 20%"/>
+            <string name="name" value="1.2x Exp/Drop/Mesos Coupon"/>
+        </imgdir>
+        <imgdir name="4009996">
+            <string name="name" value="Bobby&apos;s Coupon"/>
+            <string name="desc" value="A coupon Bobby Buzzcut gave me for helping him out, he said he&apos;d change my look for me at anytime."/>
+        </imgdir>
+        <imgdir name="4032201">
+            <string name="name" value="TokyoLockBoss"/>
+            <string name="desc" value="Locks the boss fight room after first Vergamot body is destroyed."/>
+        </imgdir>
+        <imgdir name="4032193">
+            <string name="name" value="Kamuna NPC Spawn Item"/>
+            <string name="desc" value="Spawn NPC (Akihabara)"/>
+        </imgdir>
+        <imgdir name="4032194">
+            <string name="name" value="Kamuna NPC Spawn Item"/>
+            <string name="desc" value="Spawn NPC (Tokyo Skies)"/>
+        </imgdir>
+        <imgdir name="4032195">
+            <string name="name" value="Kamuna NPC Spawn Item"/>
+            <string name="desc" value="Spawn NPC (Kamuna)"/>
+        </imgdir>
+        <imgdir name="4032357">
+            <string name="name" value="Auf Haven Wing"/>
+            <string name="desc" value="A wing from Auf Haven."/>
+        </imgdir>
+        <imgdir name="4032202">
+            <string name="name" value="Simplified Electric Pulse Transmitter"/>
+            <string name="desc" value="A simplified electric pulse transmitter from Dida. Use this in front of Marr to protect her from others."/>
+        </imgdir>
+        <imgdir name="4032191">
+            <string name="name" value="Kamuna Expedition Spawn NPC"/>
+            <string name="desc" value="Kamuna Expedition Squad Spawn NPC(Vergamot)"/>
+        </imgdir>
+        <imgdir name="4032203">
+            <string name="name" value="Kamuna Boss Spawn Item"/>
+            <string name="desc" value="Spawn Dunas (Akihabara)"/>
+        </imgdir>
+        <imgdir name="4032204">
+            <string name="name" value="Kamuna Boss Spawn Item"/>
+            <string name="desc" value="Spawn Nibergen"/>
+        </imgdir>
+        <imgdir name="4032205">
+            <string name="name" value="Kamuna Boss Spawn Item"/>
+            <string name="desc" value="Spawn Nameless Magic Monster"/>
+        </imgdir>
+        <imgdir name="4032363">
+            <string name="name" value="Summon NPC of Dunas/Auf Haven"/>
+            <string name="desc" value="Summon NPC of Dunas/Auf Haven"/>
+        </imgdir>
+        <imgdir name="4032362">
+            <string name="name" value="Summon Underling of Dunas/Auf Haven"/>
+            <string name="desc" value="Summon Underling of Dunas/Auf Haven"/>
+        </imgdir>
+        <imgdir name="4032365">
+            <string name="name" value="Transparent Item for Chandellier Attack"/>
+            <string name="desc" value="Transparent Item for Chandellier Attack"/>
+        </imgdir>
+        <imgdir name="4032182">
+            <string name="name" value="Energy Transmitter"/>
+            <string name="desc" value="A device that sends energy to the future. Destroying this will prevent Mavericks from resurrecting."/>
+        </imgdir>
+        <imgdir name="4160177">
+            <string name="name" value="Pet Command Guide: Witch&apos;s Cat"/>
+            <string name="desc" value="A guide that contains all the commands for the Salem, Binx and Kit cat pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160178">
+            <string name="name" value="Pet Command Guide: Bichon"/>
+            <string name="desc" value="A guide that contains all the commands for the Bichon pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160180">
+            <string name="name" value="Pet Command Guide: Yodeling Hen"/>
+            <string name="desc" value="A guide that contains all the commands for the Yodeling Hen pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160170">
+            <string name="name" value="Pet Command Guide: Lil Tutu"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Tutu.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160168">
+            <string name="name" value="Pet Command Guide: Lil Nenne"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Nenne.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160161">
+            <string name="name" value="Pet Command Guide: Damien and Captives"/>
+            <string name="desc" value="A guide that contains all the commands for your Damien and Captives.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160174">
+            <string name="name" value="Pet Command Guide: Lil Tengu"/>
+            <string name="desc" value="A guide that contains all the commands for the Lil Tengu pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160175">
+            <string name="name" value="Pet Command Guide: Beagle"/>
+            <string name="desc" value="A guide that contains all the commands for the Beagle pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160502">
+            <string name="name" value="Pet Command Guide: Lil Nenne"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Nenne.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160503">
+            <string name="name" value="Pet Command Guide: Retriever"/>
+            <string name="desc" value="A guide that contains all the commands for Retriever.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160504">
+            <string name="name" value="Pet Command Guide: Sheepdog"/>
+            <string name="desc" value="A guide that contains all the commands for Sheepdog.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160505">
+            <string name="name" value="Pet Command Guide: Lil Aran"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Aran.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160150">
+            <string name="name" value="Pet Command Guide: Ducky"/>
+            <string name="desc" value="A guide that contains all the commands for Ducky.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4031601">
+            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 7th Anniversary Event."/>
+            <string name="name" value="7th Anniversary Candle"/>
+        </imgdir>
+        <imgdir name="4009800">
+            <string name="desc" value="Ripped from the Green Mushroom. Do not seem safe to eat."/>
+            <string name="name" value="Proto Spores"/>
+        </imgdir>
+        <imgdir name="4009801">
+            <string name="desc" value="Noone quite knows what these crystals do. They grow on the back of Blue Wyverns."/>
+            <string name="name" value="Eternium Crystal"/>
+        </imgdir>
+        <imgdir name="4009802">
+            <string name="name" value="Dark Cornian Tail"/>
+            <string name="desc" value="A tail cut off from a Dark Cornian. It&apos;s cold, scaly, and heavy."/>
+        </imgdir>
+        <imgdir name="4009803">
+            <string name="name" value="Leeching Slug"/>
+            <string name="desc" value="A blood-thirsty slug dropped by Glutton Ghoul. Don&apos;t put it on your skin."/>
+        </imgdir>
+        <imgdir name="4009804">
+            <string name="name" value="Ancient Amber"/>
+            <string name="desc" value="An amber stone with a bug trapped inside. It&apos;s probably ancient."/>
+        </imgdir>
+        <imgdir name="4009805">
+            <string name="name" value="Typhon Egg"/>
+            <string name="desc" value="An giant egg snatched from a Typhon nest."/>
+        </imgdir>
+        <imgdir name="4009806">
+            <string name="name" value="Harvester Seed"/>
+            <string name="desc" value="A seed which, when planted, grows into a sentient plant."/>
+        </imgdir>
+        <imgdir name="4009807">
+            <string name="name" value="Razor Vine"/>
+            <string name="desc" value="Incredibly toxic vines. Don&apos;t touch the thorns!"/>
+        </imgdir>
+        <imgdir name="4009808">
+            <string name="name" value="Slygie Meat"/>
+            <string name="desc" value="A slab of meat from Slygie. It smells terrible."/>
+        </imgdir>
+        <imgdir name="4009809">
+            <string name="name" value="Squid Tentacle"/>
+            <string name="desc" value="A tentacle taken from Squid. It&apos;s wobbly and slimy."/>
+        </imgdir>
+        <imgdir name="4009810">
+            <string name="name" value="Thanatos&apos; Horn"/>
+            <string name="desc" value="A horn taken from Thanatos&apos; head. It emanates a dark energy."/>
+        </imgdir>
+        <imgdir name="4009811">
+            <string name="name" value="Flyeye"/>
+            <string name="desc" value="The eye of a Flyeye. Yuck!"/>
+        </imgdir>
+        <imgdir name="4009812">
+            <string name="name" value="Gold Plated Pearl"/>
+            <string name="desc" value="A round pearl, with a thin coat of gold."/>
+        </imgdir>
+        <imgdir name="4009813">
+            <string name="name" value="Rose of Death and Decay"/>
+            <string name="desc" value="A magical rose representing death itself."/>
+        </imgdir>
+        <imgdir name="4009814">
+            <string name="name" value="Heart of Nature"/>
+            <string name="desc" value="A strangely shaped heart made of wood."/>
+        </imgdir>
+        <imgdir name="4009815">
+            <string name="name" value="Tid Dandelion"/>
+            <string name="desc" value="A flower containing trace amounts of the power of time."/>
+        </imgdir>
+        <imgdir name="4009816">
+            <string name="name" value="Divine Clover"/>
+            <string name="desc" value="A clover said to be collected by divine beings. Sometimes Birk eats this, unknowingly."/>
+        </imgdir>
+        <imgdir name="4009817">
+            <string name="name" value="Mysterious Jar"/>
+            <string name="desc" value="A very heavy jar with unknown contents. Whatever is inside, seems to be jelly-like."/>
+        </imgdir>
+        <imgdir name="4009900">
+            <string name="desc" value="A gift for Chang&apos;e, the Goddess of the Moon, containing a lot of fruit."/>
+            <string name="name" value="Fruit Gift"/>
+        </imgdir>
+        <imgdir name="4009901">
+            <string name="desc" value="A delicious mooncake for Chang&apos;e, the Goddess of the Moon."/>
+            <string name="name" value="Mooncake"/>
+        </imgdir>
+        <imgdir name="4009995">
+            <string name="desc" value="Increases the amount of Experience, Drops, and Mesos gained by 10%"/>
+            <string name="name" value="1.1x Exp/Drop/Mesos Coupon"/>
+        </imgdir>
+        <imgdir name="4031803">
+            <string name="name" value="An Empty Beer Mug"/>
+            <string name="desc" value="A mug that has no beer in it."/>
+        </imgdir>
+        <imgdir name="4160127">
+            <string name="name" value="Pet Command Guide: Frankie"/>
+            <string name="desc" value="A guide that has all the commands for the Frankie pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160186">
+            <string name="name" value="Pet Command Guide: Vampire Cat"/>
+            <string name="desc" value="A guide that contains all the commands for the Vampire Cat pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4000673">
+            <string name="name" value="Grassy Mud Clump"/>
+            <string name="desc" value="A clump of gooey mud, with grass still managing to grow on it."/>
+        </imgdir>
+        <imgdir name="4000674">
+            <string name="name" value="Chao&apos;s Tusk"/>
+            <string name="desc" value="A sharp, solid tusk from Chao. A major step up for pointy tusks."/>
+        </imgdir>
+        <imgdir name="4000675">
+            <string name="name" value="Ancient Fairy&apos;s Wings"/>
+            <string name="desc" value="These look positively ancient."/>
+        </imgdir>
+        <imgdir name="4000676">
+            <string name="name" value="Shining Fairy&apos;s Wings"/>
+            <string name="desc" value="These wings have a bright green glow."/>
+        </imgdir>
+        <imgdir name="4033107">
+            <string name="name" value="Sweet and Sour Orange"/>
+            <string name="desc" value="A very sour orange. Yuris needs this."/>
+        </imgdir>
+        <imgdir name="4033108">
+            <string name="name" value="Chao&apos;s Tusk"/>
+            <string name="desc" value="A sharp, solid tusk from Chao. A major step up for pointy tusks."/>
+        </imgdir>
+        <imgdir name="4033109">
+            <string name="name" value="Forest Stone"/>
+            <string name="desc" value="A rock full of the energy of Ellin Forest."/>
+        </imgdir>
+        <imgdir name="4039023">
+            <string name="name" value="White Scroll Fragment A"/>
+            <string name="desc" value="A piece of Subani&apos;s sacred scroll. Its contents can&apos;t be deciphered. If only the rest of the scroll could be located..."/>
+        </imgdir>
+        <imgdir name="4039024">
+            <string name="name" value="White Scroll Fragment B"/>
+            <string name="desc" value="A piece of Subani&apos;s sacred scroll. Its contents can&apos;t be deciphered. If only the rest of the scroll could be located..."/>
+        </imgdir>
+        <imgdir name="4039025">
+            <string name="name" value="White Scroll Fragment C"/>
+            <string name="desc" value="A piece of Subani&apos;s sacred scroll. Its contents can&apos;t be deciphered. If only the rest of the scroll could be located..."/>
+        </imgdir>
+        <imgdir name="4009818">
+            <string name="desc" value="A giant, glistening leaf. When held, one can sense its strange aura."/>
+            <string name="name" value="Leaf of Instinct"/>
+        </imgdir>
+        <imgdir name="4009819">
+            <string name="desc" value="It&apos;s the gigantic jawbone taken from Skelegon. Gross."/>
+            <string name="name" value="Skelegon Jawbone"/>
+        </imgdir>
+        <imgdir name="4009820">
+            <string name="desc" value="A very rare dragon skull, which seems to contain a living soul, even when separated from its body."/>
+            <string name="name" value="Genesis Skull "/>
+        </imgdir>
+        <imgdir name="4009821">
+            <string name="desc" value="A glowing container which contains a forsaken soul. It is trapped forever, never being put to rest."/>
+            <string name="name" value="Forsaken Soul"/>
+        </imgdir>
+        <imgdir name="4009822">
+            <string name="desc" value="A sack containing a strange substance known as ectoplasm. Its properties are unknown."/>
+            <string name="name" value="Ectoplasm"/>
+        </imgdir>
+        <imgdir name="4009823">
+            <string name="desc" value="A special leash which traps the bearer in a state outside of the normal flow of time."/>
+            <string name="name" value="Temporal Leash"/>
+        </imgdir>
+        <imgdir name="4160102">
+            <string name="name" value="Pet Command Guide: Roo-bot"/>
+            <string name="desc" value="A guide that has all the commands for Roo-bot.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160107">
+            <string name="name" value="Pet Command Guide: Dilo"/>
+            <string name="desc" value="A guide that has all the commands for Dilo. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160112">
+            <string name="name" value="Pet Command Guide: Chestnut"/>
+            <string name="desc" value="A guide that has all the commands for Chestnut pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160157">
+            <string name="name" value="Pet Guide: Lil Zakum"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Zakum.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160171">
+            <string name="name" value="Pet Command Guide: Samoyed"/>
+            <string name="desc" value="A guide that contains all the commands for your Samoyed.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4009902">
+            <string name="desc" value="A fragment that contains some of Ephenia&apos;s soul."/>
+            <string name="name" value="Ephenia&apos;s Soul Shard"/>
+        </imgdir>
+        <imgdir name="4009903">
+            <string name="name" value="Ellin Crystal"/>
+            <string name="desc" value="A wondrous stone with a thousand facets. Who knows powers it contains?"/>
+        </imgdir>
+        <imgdir name="4130024">
+            <string name="desc" value="Use this when making earrings to change the item option. Beware that this also carries a 10% risk of ruining the item production."/>
+            <string name="name" value="Earring Production Stimulator"/>
+        </imgdir>
+        <imgdir name="4039026">
+            <string name="desc" value="A ribbon left over from an Easter Egg. This might come in handy later."/>
+            <string name="name" value="Easter Egg Ribbon"/>
+        </imgdir>
+        <imgdir name="4039027">
+            <string name="name" value="Hay"/>
+            <string name="desc" value="Nutritious hay, perfect food for some animals."/>
+        </imgdir>
+        <imgdir name="4039028">
+            <string name="name" value="Seed"/>
+            <string name="desc" value="A plump seed, ready to grow into an unknown plant."/>
+        </imgdir>
+        <imgdir name="4039029">
+            <string name="name" value="Herb"/>
+            <string name="desc" value="A healing herb, said to expedite growth in children."/>
+        </imgdir>
+        <imgdir name="4039030">
+            <string name="desc" value="An easter egg that an Eggy Pop stole, return it to the Mad Bunny!"/>
+            <string name="name" value="Golden Easter Egg"/>
+        </imgdir>
+        <imgdir name="4160183">
+            <string name="name" value="Pet Command Guide: Yellow Chick"/>
+            <string name="desc" value="A guide that contains all the commands for the Baby Chickie pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160184">
+            <string name="name" value="Pet Command Guide: Mini Chicken"/>
+            <string name="desc" value="A guide that contains all the commands for your Mini Chicken pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160163">
+            <string name="name" value="Pet Command Guide: Gym Cat"/>
+            <string name="desc" value="A guide that contains all the commands for your Gym Cat.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160164">
+            <string name="name" value="Pet Command Guide: Iron Rabbit"/>
+            <string name="desc" value="A guide that contains all the commands for your Iron Rabbit.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160119">
+            <string name="name" value="Pet Command Guide: Creampuff"/>
+            <string name="desc" value="A guide that has all the commands for Creampuffs.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160506">
+            <string name="desc" value="A guide that contains all the commands for Cooked Egg pets.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Cooked Eggs"/>
+        </imgdir>
+        <imgdir name="4160507">
+            <string name="desc" value="A guide that contains all the commands for Microslime.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Microslime"/>
+        </imgdir>
+        <imgdir name="4160508">
+            <string name="desc" value="A guide that contains all the commands for Microyeti.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Microyeti"/>
+        </imgdir>
+        <imgdir name="4160509">
+            <string name="desc" value="A guide that contains all the commands for Bearcat pets.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Bearcat"/>
+        </imgdir>
+        <imgdir name="4160510">
+            <string name="desc" value="A guide that contains all the commands for Honey B.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Honey B"/>
+        </imgdir>
+        <imgdir name="4039031">
+            <string name="name" value="Token of Teamwork"/>
+            <string name="desc" value="This is proof of your ability to cooperate with other Maplers!"/>
+        </imgdir>
+        <imgdir name="4039032">
+            <string name="name" value="Ludibrium Maze PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039033">
+            <string name="name" value="Henesys PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039034">
+            <string name="name" value="Kerning PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039035">
+            <string name="name" value="Ellin Forest PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039036">
+            <string name="name" value="Ludibrium PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039037">
+            <string name="name" value="Orbis PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039038">
+            <string name="name" value="Romeo &amp; Juliet PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4039039">
+            <string name="name" value="Green Snail Shell"/>
+            <string name="desc" value="A green shell removed from a snail"/>
+        </imgdir>
+        <imgdir name="4039040">
+            <string name="name" value="Purple Snail Shell"/>
+            <string name="desc" value="A purple shell removed from a snail"/>
+        </imgdir>
+        <imgdir name="4039041">
+            <string name="name" value="Yellow Snail Shell"/>
+            <string name="desc" value="A yellow shell removed from a snail"/>
+        </imgdir>
+        <imgdir name="4039042">
+            <string name="name" value="Maple Leaf Shard R"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039043">
+            <string name="name" value="Maple Leaf Shard A"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039044">
+            <string name="name" value="Maple Leaf Shard L"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039045">
+            <string name="name" value="Maple Leaf Shard S"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039046">
+            <string name="name" value="Maple Leaf Shard O"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039047">
+            <string name="name" value="Maple Leaf Shard Y"/>
+            <string name="desc" value="A shard of the Maple Leaf that Grendel the Really Old&apos;s spell shattered."/>
+        </imgdir>
+        <imgdir name="4039048">
+            <string name="name" value="Golden Apple"/>
+            <string name="desc" value="It&apos;s an apple imbued with magical powers. Perhaps these can be used to restore the Maple Leaf?"/>
+        </imgdir>
+        <imgdir name="4039049">
+            <string name="name" value="Enchanted Pearl"/>
+            <string name="desc" value="A pearl containing mysterious energies. Perhaps these can be used to restore the Maple Leaf?"/>
+        </imgdir>
+        <imgdir name="4031602">
+            <string name="name" value="8th Anniversary Candle "/>
+            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 8th Anniversary Event."/>
+        </imgdir>
+        <imgdir name="4039050">
+            <string name="name" value="Maple Hill Ticket"/>
+            <string name="desc" value="With this ticket, I can access Maple Hill whenever I want!"/>
+        </imgdir>
+        <imgdir name="4031533">
+            <string name="desc" value="An NX cash card worth 1000 points. Redeemable in the Cash Shop."/>
+            <string name="name" value="NX Cash Card - 1000 Points"/>
+        </imgdir>
+        <imgdir name="4000625">
+            <string name="name" value="Crocky&apos;s Helmet"/>
+            <string name="desc" value="Helmet worn by Crocky."/>
+        </imgdir>
+        <imgdir name="4000626">
+            <string name="name" value="Reindeer&apos;s Spear"/>
+            <string name="desc" value="Reindeer&apos;s sharp spear."/>
+        </imgdir>
+        <imgdir name="4000627">
+            <string name="name" value="Bearwolf&apos;s Morning Star"/>
+            <string name="desc" value="Morning Star used by Bearwolf."/>
+        </imgdir>
+        <imgdir name="4000628">
+            <string name="name" value="Vulture&apos;s Shoulder Accessory"/>
+            <string name="desc" value="A shoulder piece from the Grey Vulture."/>
+        </imgdir>
+        <imgdir name="4000629">
+            <string name="name" value="Castle Golem Brick"/>
+            <string name="desc" value="A brick that was once part of the Castle Golem&apos;s body."/>
+        </imgdir>
+        <imgdir name="4000630">
+            <string name="name" value="Purification Totem"/>
+            <string name="desc" value="A small totem engraved with a picture of a lion, with the power to break the Lion King&apos;s curse. To purify the corruption of the castle, many are needed."/>
+        </imgdir>
+        <imgdir name="4032831">
+            <string name="name" value="Jenn&apos;s Brother"/>
+            <string name="desc" value="Jenn&apos;s brother who was trapped in the Lion King&apos;s Castle. Better bring him to Jenn."/>
+        </imgdir>
+        <imgdir name="4032832">
+            <string name="name" value="Key to the First Tower"/>
+            <string name="desc" value="A key that can open the Roof of the First Tower at the Lion King&apos;s Castle."/>
+        </imgdir>
+        <imgdir name="4032833">
+            <string name="name" value="Key to the Second Tower"/>
+            <string name="desc" value="A key that can open the Roof of the Second Tower at the Lion King&apos;s Castle."/>
+        </imgdir>
+        <imgdir name="4032834">
+            <string name="name" value="Key to the Third Tower"/>
+            <string name="desc" value="A key that can open the Roof of the Third Tower at the Lion King&apos;s Castle."/>
+        </imgdir>
+        <imgdir name="4032835">
+            <string name="name" value="Dirty Magic Scroll of the Knight"/>
+            <string name="desc" value="A magic scroll that the Lion King gave to his knights. It&apos;s dirty and doesn&apos;t work anymore."/>
+        </imgdir>
+        <imgdir name="4032836">
+            <string name="name" value="Key to the Rose Garden"/>
+            <string name="desc" value="A key to the Rose Garden that the Lion King made for his queen, Ifia."/>
+        </imgdir>
+        <imgdir name="4032837">
+            <string name="name" value="Flower Book"/>
+            <string name="desc" value="A flower book that the Lion King and Queen Ifia made together."/>
+        </imgdir>
+        <imgdir name="4032838">
+            <string name="name" value="Alliance Badge"/>
+            <string name="desc" value="Proof of Alliance service carried by the soldiers who attacked the Lion King&apos;s Castle."/>
+        </imgdir>
+        <imgdir name="4032839">
+            <string name="name" value="Ifia&apos;s Pendant"/>
+            <string name="desc" value="A pendant with a picture of Lion King&apos;s Queen Ifia."/>
+        </imgdir>
+        <imgdir name="4032840">
+            <string name="name" value="Key to the Fourth Tower"/>
+            <string name="desc" value="A key that can open the Roof of the Fourth Tower at the Lion King&apos;s Castle."/>
+        </imgdir>
+        <imgdir name="4032858">
+            <string name="name" value="Temporary Key to the First Tower"/>
+            <string name="desc" value="A key that can open the Roof of the First Tower at the Lion King&apos;s Castle. It&apos;s easily broken, as it&apos;s only for emergencies."/>
+        </imgdir>
+        <imgdir name="4032859">
+            <string name="name" value="Murt&apos;s Letter"/>
+            <string name="desc" value="A letter that Murt wrote to his far away family. How does a ghost write a letter...?"/>
+        </imgdir>
+        <imgdir name="4039051">
+            <string name="name" value="Santa&apos;s Sack of Presents"/>
+            <string name="desc" value="A sack full of presents for all citizens of the Maple World. It should contain presents for everyone I have to visit!"/>
+        </imgdir>
+        <imgdir name="4009824">
+            <string name="desc" value="It&apos;s the horn taken from a Birk. It&apos;s very heavy."/>
+            <string name="name" value="Birk Horn"/>
+        </imgdir>
+        <imgdir name="4009825">
+            <string name="desc" value="The hoof from Black Kentaurus."/>
+            <string name="name" value="Black Kentaurus Hoof"/>
+        </imgdir>
+        <imgdir name="4009826">
+            <string name="desc" value="A broken off horn from the giant dragon, Brexton."/>
+            <string name="name" value="Brexton Horn"/>
+        </imgdir>
+        <imgdir name="4009827">
+            <string name="desc" value="A thick slab of scaly skin, cut from a Dragon Turtle."/>
+            <string name="name" value="Dragon Turtle Scales"/>
+        </imgdir>
+        <imgdir name="4009828">
+            <string name="desc" value="A gnarled tooth extracted from the mouth of Hobi."/>
+            <string name="name" value="Hobi Tooth"/>
+        </imgdir>
+        <imgdir name="4009829">
+            <string name="desc" value="One of the wooden horns growing on Rash."/>
+            <string name="name" value="Rash Twig"/>
+        </imgdir>
+        <imgdir name="4160194">
+            <string name="name" value="Pet Command Guide: Polar Cub"/>
+            <string name="desc" value="A guide that contains all the commands for your Polar Cub pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160188">
+            <string name="name" value="Pet Command Guide: Alpaca"/>
+            <string name="desc" value="A guide that contains all the commands for your Alpaca.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160511">
+            <string name="desc" value="A guide that contains all the commands for Boston.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Boston"/>
+        </imgdir>
+        <imgdir name="4160512">
+            <string name="desc" value="A guide that contains all the commands for Yorkshire.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Yorkshire"/>
+        </imgdir>
+        <imgdir name="4160513">
+            <string name="desc" value="A guide that contains all the commands for Westie.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Westie"/>
+        </imgdir>
+        <imgdir name="4160514">
+            <string name="name" value="Pet Command Guide: Tubby Tiger"/>
+            <string name="desc" value="A guide that contains all the commands for Tubby Tiger.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160191">
+            <string name="name" value="Pet Command Guide: Fish Men"/>
+            <string name="desc" value="A guide that contains all the commands for your Fish Men pets\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160185">
+            <string name="name" value="Pet Command Guide: Fried Shrimp"/>
+            <string name="desc" value="A guide that contains all the commands for the Fried Shrimp pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160152">
+            <string name="name" value="Pet Command Guide: Meerkat Mob"/>
+            <string name="desc" value="A guide that has all the commands for the Meerkat Mob. \r\n#cDouble-click on the item to open the guide.# 
+"/>
+        </imgdir>
+        <imgdir name="4160159">
+            <string name="name" value="Pet Command Guide: Mouse Monkey"/>
+            <string name="desc" value="A guide for the Mouse Monkey. \n#cDouble-click the item to open the book."/>
+        </imgdir>
+        <imgdir name="4160169">
+            <string name="name" value="Pet Command Guide: Lil Lingling"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Lingling.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
         <imgdir name="4000000">
             <string name="name" value="Blue Snail Shell"/>
             <string name="desc" value="The blue shell from a poor, almost-defenseless snail."/>
@@ -1256,6 +2706,46 @@
         <imgdir name="4000336">
             <string name="name" value="Bible of the Corrupt"/>
             <string name="desc" value="Richie&apos;s book."/>
+        </imgdir>
+        <imgdir name="4000337">
+            <string name="name" value="Genin Doll"/>
+            <string name="desc" value="A wooden Genin doll."/>
+        </imgdir>
+        <imgdir name="4000338">
+            <string name="name" value="Chunin Poison Dart"/>
+            <string name="desc" value="A dart with a poisoned tip used primarily by Chunin."/>
+        </imgdir>
+        <imgdir name="4000339">
+            <string name="name" value="Jonin Throwing Star"/>
+            <string name="desc" value="A giant throwing star only used by Jonin."/>
+        </imgdir>
+        <imgdir name="4000340">
+            <string name="name" value="Ninto Scroll"/>
+            <string name="desc" value="A scroll that contains an enormous amount of valuable information."/>
+        </imgdir>
+        <imgdir name="4000341">
+            <string name="name" value="Straw Sandals"/>
+            <string name="desc" value="A warm pair of straw sandals worn by Ashigaru."/>
+        </imgdir>
+        <imgdir name="4000342">
+            <string name="name" value="Kacchuu Musha Fragment"/>
+            <string name="desc" value="A fragment of a solid armor worn by Kacchuu Musha."/>
+        </imgdir>
+        <imgdir name="4000343">
+            <string name="name" value="Toad Oil"/>
+            <string name="desc" value="A small container that holds Toad oil."/>
+        </imgdir>
+        <imgdir name="4000344">
+            <string name="name" value="Kunoichi Dagger"/>
+            <string name="desc" value="A Kunoichi&apos;s favored weapon."/>
+        </imgdir>
+        <imgdir name="4000345">
+            <string name="name" value="Castellan&apos;s Stolen Armrest"/>
+            <string name="desc" value="An armrest that has the word &quot;Kamedeya&quot; stitched on it for some reason."/>
+        </imgdir>
+        <imgdir name="4000346">
+            <string name="name" value="Emperor Toad Wallet"/>
+            <string name="desc" value="A wallet that belonged to Emperor Toad. It&apos;s bursting with riches."/>
         </imgdir>
         <imgdir name="4000350">
             <string name="name" value="Wooden Hammer"/>
@@ -10221,29 +11711,33 @@
             <string name="name" value="Dragon Boat Festival Coin"/>
             <string name="desc" value="Obtained by participating in the Mini-game Station event. Collect them and exchange them for exclusive event-only items!"/>
         </imgdir>
+        <imgdir name="4310235">
+            <string name="name" value="Spirit Coin"/>
+            <string name="desc" value="A coin earned by rescuing a Rock Spirit in Spirit Savior. You can exchange them for Arcane Symbols from the the &lt;Escaped Rock Spirit&gt; NPC."/>
+        </imgdir>
         <imgdir name="4310237">
             <string name="name" value="Nova Coin"/>
             <string name="desc" value="It&apos;s a Nova Event Coin! You can redeem it for special items at the #cNova Coin Shop#, run by Manoff."/>
-        </imgdir>
-        <imgdir name="4310241">
-            <string name="name" value="Pop Coin"/>
-            <string name="desc" value="A Pop Coin obtained for participating in the Maple Film Festival. It can be exchanged for special items in Ring Master Orchid&apos;s #cKing of the Rings Coin Shop.#"/>
-        </imgdir>
-        <imgdir name="4310244">
-            <string name="name" value="Ghost Coin"/>
-            <string name="desc" value="Trade this in for special items like the Halloween-themed items at the #cGhoulbuster Coin Shop# run by Hallowkitty."/>
         </imgdir>
         <imgdir name="4310238">
             <string name="name" value="Absolute Taste Coin"/>
             <string name="desc" value="A coin earned in the Absolute Taste event. You can trade it for various items from the Spoon &apos;n&apos; Pantry shop NPC."/>
         </imgdir>
+        <imgdir name="4310241">
+            <string name="name" value="Pop Coin"/>
+            <string name="desc" value="A Pop Coin obtained for participating in the Maple Film Festival. It can be exchanged for special items in Ring Master Orchid&apos;s #cKing of the Rings Coin Shop.#"/>
+        </imgdir>
         <imgdir name="4310242">
             <string name="name" value="Snowdrift Lodge Coin"/>
             <string name="desc" value="A currency required for the use of the Snowdrift Lodge&apos;s services and facilities. Visit an employee in the lodge&apos;s lobby to make use of these services."/>
         </imgdir>
-        <imgdir name="4310235">
-            <string name="name" value="Spirit Coin"/>
-            <string name="desc" value="A coin earned by rescuing a Rock Spirit in Spirit Savior. You can exchange them for Arcane Symbols from the the &lt;Escaped Rock Spirit&gt; NPC."/>
+        <imgdir name="4310243">
+            <string name="name" value="Lab Server Coin"/>
+            <string name="desc" value="A coin used only on the Lab Server. Can be used to purchase many useful items from the Lab Server Shop."/>
+        </imgdir>
+        <imgdir name="4310244">
+            <string name="name" value="Ghost Coin"/>
+            <string name="desc" value="Trade this in for special items like the Halloween-themed items at the #cGhoulbuster Coin Shop# run by Hallowkitty."/>
         </imgdir>
         <imgdir name="4310247">
             <string name="name" value="EVA Coin"/>
@@ -10253,25 +11747,29 @@
             <string name="name" value="Ark Coin"/>
             <string name="desc" value="It&apos;s an Ark Event Coin! You can redeem it for special items at the #cArk Coin Shop#."/>
         </imgdir>
-        <imgdir name="4310252">
-            <string name="name" value="Research Coin"/>
-            <string name="desc" value="A coin earned from plant harvests on the Spring Valley Farm.\r\n"/>
-        </imgdir>
-        <imgdir name="4310255">
-            <string name="name" value="Credit"/>
-            <string name="desc" value="Credits, the most common currency used across the galaxy."/>
-        </imgdir>
         <imgdir name="4310249">
             <string name="name" value="Arachno Coin"/>
             <string name="desc" value="Exchange these Arachno Coins for official Arcane Umbra equipment."/>
+        </imgdir>
+        <imgdir name="4310252">
+            <string name="name" value="Research Coin"/>
+            <string name="desc" value="A coin earned from plant harvests on the Spring Valley Farm.\r\n"/>
         </imgdir>
         <imgdir name="4310253">
             <string name="name" value="14th Street Coin"/>
             <string name="desc" value="You&apos;ll get 14th Street Coin x1 for every 14th Street Point x100 earned."/>
         </imgdir>
+        <imgdir name="4310255">
+            <string name="name" value="Credit"/>
+            <string name="desc" value="Credits, the most common currency used across the galaxy."/>
+        </imgdir>
         <imgdir name="4310257">
             <string name="name" value="Alliance Medal"/>
             <string name="desc" value="A medal given by the Alliance to heroes that have gathered the power of determination. You can use Alliance Medals to increase your Alliance Rank or to purchase items from the Alliance Supply Depot."/>
+        </imgdir>
+        <imgdir name="4310258">
+            <string name="name" value="Retro Coin"/>
+            <string name="desc" value="It&apos;s a Retro World event coin! You can trade it for special items at the #cRetro World Coin Shop#."/>
         </imgdir>
         <imgdir name="4310260">
             <string name="name" value="Genesis Essence"/>
@@ -10281,65 +11779,17 @@
             <string name="name" value="Utah Coin"/>
             <string name="desc" value="You&apos;ll get 1 Utah Coin for every 100 Utah Points earned."/>
         </imgdir>
-        <imgdir name="4310243">
-            <string name="name" value="Lab Server Coin"/>
-            <string name="desc" value="A coin used only on the Lab Server. Can be used to purchase many useful items from the Lab Server Shop."/>
-        </imgdir>
         <imgdir name="4310263">
             <string name="name" value="Hong Bao"/>
             <string name="desc" value="These fancy, red money envelopes can be used in the Lunar New Year Special Supply Shop. The Lunar New Year Special Supply Shop is available at the Lunar New Year Party, Henesys, Leafre, and Nameless Town from 01/30/2019 to 02/12/2019."/>
-        </imgdir>
-        <imgdir name="4310258">
-            <string name="name" value="Retro Coin"/>
-            <string name="desc" value="It&apos;s a Retro World event coin! You can trade it for special items at the #cRetro World Coin Shop#."/>
-        </imgdir>
-        <imgdir name="4310267">
-            <string name="name" value="LINE FRIENDS Coin"/>
-            <string name="desc" value="A shiny coin that looks just like BROWN. CONY probably loves these... You can swap them for all kinds of items at the LINE FRIENDS Coin Shop. Talk to BROWN in #cHenesys#, #cLeafre#,  or #cChu Chu Village# to visit the Coin Shop."/>
         </imgdir>
         <imgdir name="4310266">
             <string name="name" value="Adventure Coin"/>
             <string name="desc" value="You&apos;ll get 1 Adventure Coin for every 100 Adventure Points earned."/>
         </imgdir>
-        <imgdir name="4000337">
-            <string name="name" value="Genin Doll"/>
-            <string name="desc" value="A wooden Genin doll."/>
-        </imgdir>
-        <imgdir name="4000338">
-            <string name="name" value="Chunin Poison Dart"/>
-            <string name="desc" value="A dart with a poisoned tip used primarily by Chunin."/>
-        </imgdir>
-        <imgdir name="4000339">
-            <string name="name" value="Jonin Throwing Star"/>
-            <string name="desc" value="A giant throwing star only used by Jonin."/>
-        </imgdir>
-        <imgdir name="4000340">
-            <string name="name" value="Ninto Scroll"/>
-            <string name="desc" value="A scroll that contains an enormous amount of valuable information."/>
-        </imgdir>
-        <imgdir name="4000341">
-            <string name="name" value="Straw Sandals"/>
-            <string name="desc" value="A warm pair of straw sandals worn by Ashigaru."/>
-        </imgdir>
-        <imgdir name="4000342">
-            <string name="name" value="Kacchuu Musha Fragment"/>
-            <string name="desc" value="A fragment of a solid armor worn by Kacchuu Musha."/>
-        </imgdir>
-        <imgdir name="4000343">
-            <string name="name" value="Toad Oil"/>
-            <string name="desc" value="A small container that holds Toad oil."/>
-        </imgdir>
-        <imgdir name="4000344">
-            <string name="name" value="Kunoichi Dagger"/>
-            <string name="desc" value="A Kunoichi&apos;s favored weapon."/>
-        </imgdir>
-        <imgdir name="4000345">
-            <string name="name" value="Castellan&apos;s Stolen Armrest"/>
-            <string name="desc" value="An armrest that has the word &quot;Kamedeya&quot; stitched on it for some reason."/>
-        </imgdir>
-        <imgdir name="4000346">
-            <string name="name" value="Emperor Toad Wallet"/>
-            <string name="desc" value="A wallet that belonged to Emperor Toad. It&apos;s bursting with riches."/>
+        <imgdir name="4310267">
+            <string name="name" value="LINE FRIENDS Coin"/>
+            <string name="desc" value="A shiny coin that looks just like BROWN. CONY probably loves these... You can swap them for all kinds of items at the LINE FRIENDS Coin Shop. Talk to BROWN in #cHenesys#, #cLeafre#,  or #cChu Chu Village# to visit the Coin Shop."/>
         </imgdir>
         <imgdir name="4310269">
             <string name="name" value="Pixel Coin"/>
