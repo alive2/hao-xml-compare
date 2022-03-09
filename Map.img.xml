@@ -1,5 +1,211 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Map.img">
+    <imgdir name="CN">
+        <imgdir name="741000200">
+            <string name="mapName" value="Fishing Lagoon"/>
+            <string name="streetName" value="Fishing Lagoon"/>
+        </imgdir>
+        <imgdir name="749050500">
+            <string name="mapName" value="Universe Fishing Lagoon"/>
+            <string name="streetName" value="Hidden Map"/>
+        </imgdir>
+        <imgdir name="749050501">
+            <string name="mapName" value="Fantasy Fishing Lagoon"/>
+            <string name="streetName" value="Hidden Map"/>
+        </imgdir>
+        <imgdir name="749050502">
+            <string name="mapName" value="Lounge Pond"/>
+            <string name="streetName" value="Hidden Street"/>
+        </imgdir>
+        <imgdir name="749040000">
+            <string name="mapName" value="Gate of Dong Dong Chiang"/>
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040001">
+            <string name="mapName" value="House of Dong Dong Chiang"/>
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040002">
+            <string name="mapName" value="House of Dong Dong Chiang"/>
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040003">
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+            <string name="mapName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040004">
+            <string name="mapName" value="House of Dong Dong Chiang"/>
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040005">
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+            <string name="mapName" value="House of Dong Dong Chiang"/>
+        </imgdir>
+        <imgdir name="749040006">
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+            <string name="mapName" value="Lobby"/>
+        </imgdir>
+        <imgdir name="749040007">
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+            <string name="mapName" value="Exit"/>
+        </imgdir>
+        <imgdir name="749040008">
+            <string name="streetName" value="House of Dong Dong Chiang"/>
+            <string name="mapName" value="award"/>
+        </imgdir>
+        <imgdir name="702000000">
+            <string name="mapName" value="Lushan Town"/>
+            <string name="streetName" value="Eastern China"/>
+        </imgdir>
+        <imgdir name="702010000">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Foot of the Mountain"/>
+        </imgdir>
+        <imgdir name="702020000">
+            <string name="mapName" value="Mountain Road 1"/>
+            <string name="streetName" value="Eastern China"/>
+        </imgdir>
+        <imgdir name="702030000">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Mountainside"/>
+        </imgdir>
+        <imgdir name="702040000">
+            <string name="mapName" value="Mountain Road 2"/>
+            <string name="streetName" value="Eastern China"/>
+        </imgdir>
+        <imgdir name="702050000">
+            <string name="mapName" value="Temple Plaza"/>
+            <string name="streetName" value="Eastern China"/>
+        </imgdir>
+        <imgdir name="702060000">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Secret Library"/>
+        </imgdir>
+        <imgdir name="702070100">
+            <string name="mapName" value="Shaolin Temple Floor 1-2"/>
+            <string name="streetName" value="Eastern China"/>
+        </imgdir>
+        <imgdir name="702070200">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Shaolin Temple Floor 3-4"/>
+        </imgdir>
+        <imgdir name="702070300">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Shaolin Temple Floor 5-6"/>
+        </imgdir>
+        <imgdir name="702070400">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Shaolin Temple Floor 7"/>
+        </imgdir>
+        <imgdir name="702100000">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Mahavira Hall"/>
+        </imgdir>
+        <imgdir name="702080000">
+            <string name="streetName" value="Eastern China"/>
+            <string name="mapName" value="Temple Garden"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="china">
+        <imgdir name="701000000">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Shanghai Wai-Tan"/>
+        </imgdir>
+        <imgdir name="701000100">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Shanghai - Temporary Airport"/>
+        </imgdir>
+        <imgdir name="701010000">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Shanghai - Out of the Bridge"/>
+        </imgdir>
+        <imgdir name="701010100">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Shanghai - Northern Flatland"/>
+        </imgdir>
+        <imgdir name="701010200">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Shanghai - Northern Park"/>
+        </imgdir>
+        <imgdir name="701010300">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Split Road at West"/>
+        </imgdir>
+        <imgdir name="701010310">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Mountainous Region I"/>
+        </imgdir>
+        <imgdir name="701010320">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Mountainous Region II"/>
+        </imgdir>
+        <imgdir name="701010321">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="The Land of Black Sheep"/>
+        </imgdir>
+        <imgdir name="701010322">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="The Path"/>
+        </imgdir>
+        <imgdir name="701010323">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Trecherous Valley"/>
+        </imgdir>
+        <imgdir name="701010324">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Scary Valley"/>
+        </imgdir>
+        <imgdir name="701010400">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Western Prairie I"/>
+        </imgdir>
+        <imgdir name="701010500">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Western Prairie II"/>
+        </imgdir>
+        <imgdir name="701010600">
+            <string name="streetName" value="China"/>
+            <string name="mapName" value="Western Prairie III"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="thai">
+        <imgdir name="500000000">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Floating Market"/>
+        </imgdir>
+        <imgdir name="500010000">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Frog Pond"/>
+        </imgdir>
+        <imgdir name="500010100">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Toad Pond"/>
+        </imgdir>
+        <imgdir name="500020000">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Brilliant Swamp"/>
+        </imgdir>
+        <imgdir name="500020100">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Isolated House"/>
+        </imgdir>
+        <imgdir name="500020101">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="The outskirt of Village"/>
+        </imgdir>
+        <imgdir name="500020200">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Small Jungle"/>
+        </imgdir>
+        <imgdir name="500020300">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Red Jungle"/>
+        </imgdir>
+        <imgdir name="500020400">
+            <string name="streetName" value="Thailand"/>
+            <string name="mapName" value="Deep Jungle"/>
+        </imgdir>
+    </imgdir>
     <imgdir name="maple">
         <imgdir name="0">
             <string name="streetName" value="Maple Road"/>

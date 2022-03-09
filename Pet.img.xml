@@ -1,5 +1,175 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Pet.img">
+    <imgdir name="5000063">
+        <string name="name" value="Axel"/>
+        <string name="desc" value="Axel, a gentle and well-behaved chihuahua.\nSpecial food: #cChihuahua Chew.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="Axell has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000410">
+        <string name="name" value="Stickman"/>
+        <string name="desc" value="A curious construct, this Stickman pet will be happy to join you in your adventures.\nSpecial food: #cNone.#\nSpecial equip: #cTransparent Pet Equip.#"/>
+        <string name="descD" value="It was a curious construct Stickman, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+    </imgdir>
+    <imgdir name="5000124">
+        <string name="desc" value="Your very own tiny Gollux, cleansed and ready for friendship.\nSpecial food: #cCleansing Powder.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="Your tiny, yet tough Gollux has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Tiny Gollux"/>
+    </imgdir>
+    <imgdir name="5000191">
+        <string name="desc" value="Toto once guarded the final floor of the Tower of Oz, but now is just content to tag along with you.\nSpecial food: #cNone.#\nSpecial equip: #cTransparent Pet Equip.#"/>
+        <string name="descD" value="Toto has turned into a ghost. You can revive it with the Water of Life."/>
+        <string name="name" value="Toto"/>
+    </imgdir>
+    <imgdir name="5000095">
+        <string name="desc" value="A soft and sweet Honey Angel.\nSpecial food: #cHoney Soul Candy.#\nSpecial equip: #cAngelic Trio.#"/>
+        <string name="descD" value="Your perfect little Angel has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Honey Angel"/>
+    </imgdir>
+    <imgdir name="5000061">
+        <string name="desc" value="A really indifferent Koala.\nSpecial food: #cEucalyptus Leaves.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="This Fashionista Koala pet is inanimate, having lost the Water of Life. Special magic is required to revive it."/>
+        <string name="name" value="Nerdy Koala"/>
+    </imgdir>
+    <imgdir name="5000127">
+        <string name="desc" value="A really indifferent Koala.\nSpecial food: #cEucalyptus Leaves.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="This Fashionista Koala pet is inanimate, having lost the Water of Life. Special magic is required to revive it."/>
+        <string name="name" value="Frumpy Koala"/>
+    </imgdir>
+    <imgdir name="5000125">
+        <string name="desc" value="A donkey with wings that thinks its an adventurer. It may be a bit clumsy, but its still kinda cute.\nSpecial food: #cDilloberry.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="Your Blue Burro has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Blue Burro"/>
+    </imgdir>
+    <imgdir name="5000126">
+        <string name="desc" value="Very outgoing and mature; doesn&apos;t need to be fed all the time. An intelligent pet that easily understands the commands from the master.\nSpecial food: #cNone.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="It was a cute little Red Elly, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+        <string name="name" value="Red Elly"/>
+    </imgdir>
+    <imgdir name="5000099">
+        <string name="desc" value="A cute Red Dragon.\nSpecial food: #cRed Pudding.#\nSpecial equip: #c.Morphing Pet Necklace#"/>
+        <string name="descD" value="Your cute dragon has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Red Dragon"/>
+    </imgdir>
+    <imgdir name="5000097">
+        <string name="name" value="Ice Dragon"/>
+        <string name="descD" value="Your cute dragon has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="desc" value="A cute Ice Dragon.\nSpecial food: #cIce Pudding.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+    </imgdir>
+    <imgdir name="5000062">
+        <string name="desc" value="A colt with wings that thinks its an adventurer. It may be a bit clumsy, but its still kinda cute.\nSpecial food: #cDilloberry.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="Your winged Brown Burro has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Brown Burro"/>
+    </imgdir>
+    <imgdir name="5000019">
+        <string name="desc" value="Lady Hot Tea is elegant and soulful. She has a flowery scent, and is rumored to get along well with Mr. Milk.\nSpecial food: #cNone.#\nSpecial equip: #cLady Hot Tea&apos;s Spoon.#"/>
+        <string name="descD" value="It was an elegant and soulful Lady Hot Tea, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
+        <string name="name" value="Lady Hot Tea"/>
+    </imgdir>
+    <imgdir name="5000069">
+        <string name="desc" value="A cute Li&apos;l Arby.\nSpecial food: #cLi&apos;l Arby&apos;s Crunchy Fish Pastry.#\nSpecial equip: #cLi&apos;l Arby&apos;s Bell.#"/>
+        <string name="descD" value="Li&apos;l Arby has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Li&apos;l Arby"/>
+    </imgdir>
+    <imgdir name="5000035">
+        <string name="desc" value="A lovely and sweet cotton-candy pet. This Fluffram looks tasty but you cannot eat it.\nSpecial food: #cNone.#\nSpecial equip: #cFluffram Ribbon.#"/>
+        <string name="descD" value="It was a lovely and sweet Fluffram, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+        <string name="name" value="Fluffram"/>
+    </imgdir>
+    <imgdir name="5000113">
+        <string name="desc" value="A cuddly Fluffy Teddy.\nSpecial food: #cTeddy&apos;s Honey Stash.#\nSpecial equip: #cFluffy Teddy&apos;s Bunny Ears.#"/>
+        <string name="descD" value="Your snuggly Teddy has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Fluffy Teddy"/>
+    </imgdir>
+    <imgdir name="5000112">
+        <string name="desc" value="A cuddly Cutie Teddy.\nSpecial food: #cTeddy&apos;s Honey Stash.#\nSpecial equip: #cCutie Teddy&apos;s Baby Bonnet.#"/>
+        <string name="descD" value="Your snuggly Teddy has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Cutie Teddy"/>
+    </imgdir>
+    <imgdir name="5000115">
+        <string name="desc" value="A great and regal dragon who carries the legendary Dragon Orb.\nSpecial food: #cDragon Food.#\nSpecial equip: #cDragon Orb.#"/>
+        <string name="descD" value="Storm Dragon has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Storm Dragon"/>
+    </imgdir>
+    <imgdir name="5000027">
+        <string name="name" value="Mors"/>
+        <string name="desc" value="Mors, a melancholy demon who controls death.\nSpecial food: #cMopey Spirit.#\nSpecial equip: #cDemonic Trio.#"/>
+        <string name="descD" value="Your melancholy demon has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000016">
+        <string name="name" value="Metus"/>
+        <string name="desc" value="Metus, a mischievous demon who preys on fear.\nSpecial food: #cScary Spirit.#\nSpecial equip: #cDemonic Trio.#"/>
+        <string name="descD" value="Your mischievous demon has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000104">
+        <string name="name" value="Toasty Devil"/>
+        <string name="descD" value="Your mischievous Devil has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="desc" value="A hot-headed Toasty Devil.\nSpecial food: #cSoul Vial.#\nSpecial equip: #c.Blazing Horns#"/>
+    </imgdir>
+    <imgdir name="5000119">
+        <string name="name" value="Fennec Fox"/>
+        <string name="descD" value="Your Fennec Foxt has turned into a doll. You can revive it with Water of Life."/>
+        <string name="desc" value="A romantic fox from the desert. It claims to be from asteroid B-612.\nSpecial food: #cStar Candy.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+    </imgdir>
+    <imgdir name="5000059">
+        <string name="name" value="Pierre"/>
+        <string name="descD" value="Your mini Root Abyss pet has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="desc" value="Is this the REAL Pierre? \nHide your tiny cars!\nSpecial food: #cWorld Tree Fruit.#\nSpecial equip: #cPierre&apos;s Umbrella.#"/>
+    </imgdir>
+    <imgdir name="5000094">
+        <string name="desc" value="Macha Man is a man of few words and a big personality, with less bitterness and a fresh aftertaste. His weight-loss expertise makes him a popular gent among young women.\nSpecial food: #cNone.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="It was a Macha Man of few words and a big personality, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
+        <string name="name" value="Macha Man"/>
+    </imgdir>
+    <imgdir name="5000073">
+        <string name="desc" value="A tart little Lime Angel.\nSpecial food: #cLime Soul Candy.#\nSpecial equip: #cAngelic Trio.#"/>
+        <string name="descD" value="Your perfect little Angel has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Lime Angel"/>
+    </imgdir>
+    <imgdir name="5000081">
+        <string name="name" value="Jr. Von Leon"/>
+        <string name="descD" value="Your tough friend Jr. Von Leon has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="desc" value="This Jr. Von Leon wants to be super tough.\nSpecial food: #cCommander&apos;s Corn Dog.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+    </imgdir>
+    <imgdir name="5000077">
+        <string name="name" value="Ice Knight"/>
+        <string name="descD" value="Your chill Ice Knight has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="desc" value="It&apos;s the Ice Knight, your little frozen friend!\nSpecial food: #cIce Cookie.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+    </imgdir>
+    <imgdir name="5000075">
+        <string name="desc" value="A charming Lil Moonbeam.\nSpecial food: #cRaw Liver.#\nSpecial equip: #cMorphing Pet Necklace.#"/>
+        <string name="descD" value="Lil Moonbeam has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Lil Moonbeam"/>
+    </imgdir>
+    <imgdir name="5000057">
+        <string name="desc" value="This Ill Orchid is so weak.\nSpecial food: #cNone.#\nSpecial equip: #cOrchid&apos;s Tiny IV or Transparent Pet Equip.#"/>
+        <string name="descD" value="Your feeble friend Ill Orchid has turned into a doll. You can revive it with the Water of Life."/>
+        <string name="name" value="Ill Orchid"/>
+    </imgdir>
+    <imgdir name="5000413">
+        <string name="name" value="Chubmunk"/>
+        <string name="desc" value="A playful Chubby Chipmunk.\nSpecial food: #cAcorn#\nSpecial equip: #cChubmunk&apos;s Acorn.#"/>
+        <string name="descD" value="Your playful chipmunk pet has turned into a doll.You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000412">
+        <string name="name" value="Chipmunch"/>
+        <string name="desc" value="A playful Munchy Chipmunk.\nSpecial food: #cAcorn.#\nSpecial equip: #cChipmunch&apos;s Acorn.#"/>
+        <string name="descD" value="Your playful chipmunk pet has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000411">
+        <string name="name" value="Lil&apos; Lotus"/>
+        <string name="desc" value="This Lil&apos; Lotus pet is quiet.\nSpecial food: #cBunny Cookie.#\nSpecial equip: #cLotus&apos;s Aura.#"/>
+        <string name="descD" value="Quiet Lil&apos; Lotus has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
+    <imgdir name="5000208">
+        <string name="name" value="Devil Ose"/>
+        <string name="descD" value="A little Devil went back to Doll. You can revive it with Water of Life."/>
+        <string name="desc" value="A cute little Devil summoned from the other Dimension. He was a Devil of lies, who plagued others with hallucinations.\nSpecial food: #cMopey Spirit.#\nSpecial equip: #cBlue Devil&apos;s Collar.#"/>
+    </imgdir>
+    <imgdir name="5002203">
+        <string name="name" value="Tubby Tiger"/>
+        <string name="desc" value="This #cTubby Tiger# jumped straight out of a scroll.\nSpecial food: #cTubby Tiger&apos;s Drink.#\nSpecial equip: #cTubby Tiger&apos;s Scroll.#"/>
+        <string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+    </imgdir>
     <imgdir name="5000000">
         <string name="desc" value="They are quiet and gentle in nature, so they don&apos;t go craving for food too often. They don&apos;t seem to be too obedient of their owners."/>
         <string name="descD" value="It was a cute little kitty, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>

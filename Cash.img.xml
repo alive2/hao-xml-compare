@@ -1,5 +1,718 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Cash.img">
+    <imgdir name="5201000">
+        <string name="name" value="Box of Metal Balls"/>
+        <string name="desc" value="200 balls in the box."/>
+    </imgdir>
+    <imgdir name="5201001">
+        <string name="name" value="Box of Metal Balls"/>
+        <string name="desc" value="500 balls in the box."/>
+    </imgdir>
+    <imgdir name="5210000">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession, temporarily doubles the EXP gained."/>
+    </imgdir>
+    <imgdir name="5210001">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+    </imgdir>
+    <imgdir name="5210002">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+    </imgdir>
+    <imgdir name="5210003">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+    </imgdir>
+    <imgdir name="5210004">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+    </imgdir>
+    <imgdir name="5210005">
+        <string name="name" value="Pro-Adult Ticket"/>
+        <string name="desc" value="When in possession during a specific time period, all EXP gained will be double."/>
+    </imgdir>
+    <imgdir name="5211001">
+        <string name="name" value="From NEXON"/>
+        <string name="desc" value="Please refrain from breaking Maplestory client apart."/>
+    </imgdir>
+    <imgdir name="5211002">
+        <string name="name" value="Special Coupon - 5 days"/>
+        <string name="desc" value="Hold on to this coupon to #cearn 2x EXP from all monsters#. This coupon is valid for 5 days after the initial possession, and please be aware that if the character has multiple coupons of the same kind, they will all kick in at once."/>
+    </imgdir>
+    <imgdir name="5211003">
+        <string name="name" value="one-time 2x EXP coupon"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)# for xx minutes after the purchaser activate the coupon."/>
+    </imgdir>
+    <imgdir name="5211047">
+        <string name="name" value="Everstone III"/>
+        <string name="desc" value="With a snap of the fingers, your soul is trapped in the stone. You will not gain any EXP whilst this item is in your inventory.#cThe character must be between Lv.121 and Lv.200 to use this item#."/>
+    </imgdir>
+    <imgdir name="5240016">
+        <string name="name" value="Caramel Beetle"/>
+        <string name="desc" value="A caramel beetle plucked right from a myserious tree. Only the pet #cJr. Reaper# appreciates such delicacy.\nRecovers entire Fullness.\n#cIncrease Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240019">
+        <string name="name" value="Hedgehog Food											Is this supposed to be for the Porcupine?"/>
+        <string name="desc" value="A nutritious blend of formulas only for the pet #cHedgehogs#.\nRecovers entire Fullness.\n#cIncrease Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5251004">
+        <string name="name" value="Simple Wedding Ticket"/>
+        <string name="desc" value="A ticket that allows for a simple wedding. #cThe bride and groom may each invite 5 well-wishers and receive a 1 Carat Wedding Ring.#"/>
+    </imgdir>
+    <imgdir name="5251005">
+        <string name="name" value="Sweet Wedding Ticket"/>
+        <string name="desc" value="A ticket that allows for a sweet wedding. #cThe bride and groom may each invite 15 well-wishers, take a Wedding Photo, and receive a 2 Carat Wedding Ring.#"/>
+    </imgdir>
+    <imgdir name="5251006">
+        <string name="name" value="Premium Wedding Ticket"/>
+        <string name="desc" value="A ticket that allows for a lavish, premier wedding. #cThe bride and groom may each invite 30 well-wishers, take a Wedding Photo, and receive a 3 Carat Wedding Ring.#"/>
+    </imgdir>
+    <imgdir name="5360009">
+        <string name="name" value="2X Drop Card - Type 1"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5360010">
+        <string name="name" value="2X Drop Card - Type 1"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5360011">
+        <string name="name" value="2X Drop Card - Type 1"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5360012">
+        <string name="name" value="2X Drop Card - Type 1"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Drop (double drop rate)# from monsters. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5360013">
+        <string name="name" value="2X Drop Card - Type 1"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Drop (double drop rate)# from monsters. The coupon will be activated immediately after purchase, and the double experience effect will be available for 24 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5360014">
+        <string name="name" value="2x Drop 3 Hours Special Card"/>
+        <string name="desc" value="This coupon allows users to earn #c2x Drop (double drop)#. The coupon will be activated immediately after purchase, and the double drop effect will be available for 3 hours upon purchase."/>
+    </imgdir>
+    <imgdir name="5156000">
+        <string name="name" value="Royal Coupon"/>
+        <string name="desc" value="Take this coupon to the #cBig Headward# in Free Market Entrance or Amherst, and you&apos;ll be able to change your #chair# or #cface#."/>
+    </imgdir>
+    <imgdir name="5010078">
+        <string name="desc" value="An Owl, friend of Dual Blades.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Owl Effect"/>
+    </imgdir>
+    <imgdir name="5010102">
+        <string name="desc" value="Effect used in situations where you feel sorry for not being able to help.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Sorry!"/>
+    </imgdir>
+    <imgdir name="5010103">
+        <string name="desc" value="Effect for finding friends.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Friends Plz"/>
+    </imgdir>
+    <imgdir name="5010104">
+        <string name="desc" value="Displays an effect to find someone who will help you level.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Party Plz"/>
+    </imgdir>
+    <imgdir name="5010105">
+        <string name="desc" value="Somehow I feel the IQ is soars up. Fresh ideas ? are overflowing.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Good Idea!"/>
+    </imgdir>
+    <imgdir name="5010107">
+        <string name="desc" value="Rustling of maple leaf-shaped tailfox.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Maple Foxtail"/>
+    </imgdir>
+    <imgdir name="5010071">
+        <string name="name" value="Frightful Full Moon Effect"/>
+        <string name="desc" value="An uninvited guest is at Moon Bunny&apos;s house.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010138">
+        <string name="name" value="Hungry Magpie Effect"/>
+        <string name="desc" value="Look at that magpie go!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010136">
+        <string name="name" value="Nature&apos;s Rage Effect"/>
+        <string name="desc" value="You have the right to bear arms!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010135">
+        <string name="name" value="Buche de Noel Effect"/>
+        <string name="desc" value="Buche de Noel is a cake-filled holiday delight!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010133">
+        <string name="name" value="Grim Cemetery"/>
+        <string name="desc" value="Do you hear dead people?\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010132">
+        <string name="name" value="Homecoming Lunch Fest"/>
+        <string name="desc" value="A homecoming calls for some yummy home-made food!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010128">
+        <string name="name" value="Stampeding Staffs"/>
+        <string name="desc" value="Crave the limelight? Be the center of these little staffs&apos; lives!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010127">
+        <string name="name" value="Splashing Waves!"/>
+        <string name="desc" value="You&apos;re so charming, you&apos;re making waves!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010126">
+        <string name="name" value="Princess No Effect"/>
+        <string name="desc" value="Summons a floating Princess No to follow you wherever you go! Will she approve of your antics?\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010123">
+        <string name="name" value="Winner&apos;s Podium Effect"/>
+        <string name="desc" value="So this is what it feels like to be the winner!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010122">
+        <string name="name" value="Golden Dragon Effect"/>
+        <string name="desc" value="A golden dragon that radiates an ancient power.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010112">
+        <string name="name" value="London Night Effect"/>
+        <string name="desc" value="If you can&apos;t go to London, bring London to you!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010106">
+        <string name="desc" value="Dazedly shiny!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Shining Effect"/>
+    </imgdir>
+    <imgdir name="5010101">
+        <string name="desc" value="Colorful wings that turn heads.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+        <string name="name" value="Rainbow Wings"/>
+    </imgdir>
+    <imgdir name="5010096">
+        <string name="name" value="[MS Discount] Shining Star"/>
+        <string name="desc" value="A star that shines with the colors of the rainbow. You&apos;re the star of the dance floor!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5220097">
+        <string name="name" value="Chair Gachapon Ticket"/>
+        <string name="desc" value="This ticket will enable you to use the Chair Gachapon by talking to Pietro."/>
+    </imgdir>
+    <imgdir name="5220098">
+        <string name="name" value="Fast Travel Ticket"/>
+        <string name="desc" value="Present this ticket to the cabin crew for unlimited travel without having to wait to board planes, trains, or boats."/>
+    </imgdir>
+    <imgdir name="5030022">
+        <string name="desc" value="Set up this special store on the Free Market, and Jeweler Abdullah working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+        <string name="name" value="Jeweler Abdullah"/>
+    </imgdir>
+    <imgdir name="5030025">
+        <string name="name" value="Bunny Hired Merchant"/>
+        <string name="desc" value="Set up this special store on the Free Market, and this Bunny working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+    </imgdir>
+    <imgdir name="5030028">
+        <string name="name" value="Panda Hired Merchant"/>
+        <string name="desc" value="Set up this special store on the Free Market, and this Panda working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+    </imgdir>
+    <imgdir name="5030031">
+        <string name="name" value="Horse Merchant"/>
+        <string name="desc" value="Set up this special store on the Free Market, and this Horse working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+    </imgdir>
+    <imgdir name="5390011">
+        <string name="name" value="Christmas Messenger"/>
+        <string name="desc" value=" Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone’s screen! Comes with a festive background for your avatar."/>
+    </imgdir>
+    <imgdir name="5390012">
+        <string name="name" value="Fireworks Messenger"/>
+        <string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone’s screen! Comes with an explosive background for your avatar"/>
+    </imgdir>
+    <imgdir name="5240048">
+        <string name="name" value="Dragon Food"/>
+        <string name="desc" value="A lustrous loaf of meat particularly loved by the pet #cStorm Dragon#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240086">
+        <string name="name" value="Gingerbread Crumbs"/>
+        <string name="desc" value="A bag of tasty treats well-loved by the pet #cGingerhead Man#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240034">
+        <string name="name" value="Doggy Bone"/>
+        <string name="desc" value="Only eligible for the pet #cCorgi Pup#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240085">
+        <string name="name" value="Soul Vial"/>
+        <string name="desc" value="A concoction of pure souls made just for the pet #cToasty Devil, Icy Devil, and Miasma Devil#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240039">
+        <string name="name" value="Sugar Lump"/>
+        <string name="desc" value="A special sugar lump for the pet Unicorns #cTiel, Galiel and Esel#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240033">
+        <string name="name" value="Unidentified Liquid"/>
+        <string name="desc" value="A special concoction that the #cBing Monkey# relies upon for sustenance.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240035">
+        <string name="name" value="Canned Food"/>
+        <string name="desc" value="High-quality cat food that can only be eaten by the pet #cPersian Cats#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240031">
+        <string name="name" value="Fireball"/>
+        <string name="desc" value="A fireball that has been heated up to the perfect temperature for a baby dragon. It can only be eaten by the pet #cMir and Ruby#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240059">
+        <string name="name" value="Scary Spirit"/>
+        <string name="desc" value="A scary spirit with a spicy finish that can only be consumed by the pet #cMetus and Devil Shaz#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240060">
+        <string name="name" value="Mopey Spirit"/>
+        <string name="desc" value="A sad spirit with a bitter finish that can only be consumed by the pet #cMors and Devil Ose#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240061">
+        <string name="name" value="Jealous Spirit"/>
+        <string name="desc" value="A jealous spirit with a sour finish that can only be consumed by the pet #cInvidia and Devil Ipos#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240081">
+        <string name="name" value="Honey Soul Candy"/>
+        <string name="desc" value="A little drop of sweetness that&apos;s perfect for the pet #cHoney Angel#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240082">
+        <string name="name" value="Lime Soul Candy"/>
+        <string name="desc" value="A little drop of tart that&apos;s perfect for the pet #cLime Angel#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240083">
+        <string name="name" value="Peach Soul Candy"/>
+        <string name="desc" value="A little drop of syrup that&apos;s perfect for the pet #cPeach Angel#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240073">
+        <string name="name" value="Teddy&apos;s Honey Stash"/>
+        <string name="desc" value="A big jar of honey prized by the pet #cPuffy Teddy#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240069">
+        <string name="name" value="Pink Pudding"/>
+        <string name="desc" value="A delicious pudding that only the pet #cPink Dragon# likes.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240070">
+        <string name="name" value="Ice Pudding"/>
+        <string name="desc" value="An icy pudding that only the pet #cIce Dragon# can stomach.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240071">
+        <string name="name" value="Red Pudding"/>
+        <string name="desc" value="A red pudding that only the pet #cRed Dragon# enjoys.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240077">
+        <string name="name" value="Eucalyptus Leaves"/>
+        <string name="desc" value="These leaves are the only thing the #cNerdy Koala, Grumpy Koala and Frumpy Koala# eat, besides pet food.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240054">
+        <string name="name" value="Veggies"/>
+        <string name="desc" value="A collection of fresh vegetables for pet #cBrown Burro and Blue Burro#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240047">
+        <string name="name" value="Star Candy"/>
+        <string name="desc" value="A sweet star candy that the pet #cFennec Fox# goes crazy for.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240087">
+        <string name="name" value="World Tree Fruit"/>
+        <string name="desc" value="A delicious taste of the World Tree. Well-beloved by the pet #cMini Queen, Pierre, and Von Bon#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240055">
+        <string name="name" value="Navigator Oyster"/>
+        <string name="desc" value="A special treat for the pet #cAdriano#. Otters love oysters!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240045">
+        <string name="name" value="Harp Seal Formula"/>
+        <string name="desc" value="Choice formula that can only be consumed by the pet #cHarp Seal#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240040">
+        <string name="name" value="Flour Sack"/>
+        <string name="desc" value="Food for the pet #cCake and Pie# made to celebrate Maplestory&apos;s Anniversary.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240028">
+        <string name="name" value="Dynamite"/>
+        <string name="desc" value="A dynamite that can only be eaten by the #cWeird Alien# pet.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240022">
+        <string name="name" value="Little Fruits"/>
+        <string name="desc" value="Small red fruits that can be eaten by the pet #cToucan# only.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240088">
+        <string name="name" value="Ribbit Ribbit"/>
+        <string name="desc" value="Frogs that can only be consumed by the pet #cSassy Snake#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240056">
+        <string name="name" value="Helmsman&apos;s Watermelon"/>
+        <string name="desc" value="A plump, ripe watermelon for the pet #cBonkey#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240067">
+        <string name="name" value="Shining Tuna"/>
+        <string name="desc" value="A fresh, shining tuna that only the pet #cShark# in the fish tank can truly appreciate.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240079">
+        <string name="name" value="Puffram&apos;s Cloud Candy"/>
+        <string name="desc" value="A sweet cloud candy that can only be eaten by the pet #cPuffram#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240053">
+        <string name="name" value="Bandit Cup Ramen"/>
+        <string name="desc" value="A salty cup of noodles favored by the pet #cBandit#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240044">
+        <string name="name" value="Observer Cherry"/>
+        <string name="desc" value="A cherry for the pet #cCraw#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240074">
+        <string name="name" value="Hot Pumpkin Porridge"/>
+        <string name="desc" value="The favorite of the Pumpkin pets #cZack, Jack and Mack#. This Hot Pumpkin Porridge will warm even the coldest pet.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240117">
+        <string name="name" value="Lyn Battery"/>
+        <string name="desc" value="A battery that energizes the pet #cBallet Lyn#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240123">
+        <string name="name" value="Bunny Cookie"/>
+        <string name="desc" value="A delicious bunny cookie made just for the pet #cGelimer and Lil Lotus.#\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240112">
+        <string name="name" value="Chihuahua Chew"/>
+        <string name="desc" value="The chihuahua pets #cAbel, Adel and Axel# love chewy doggy treats.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240014">
+        <string name="name" value="Watermelon"/>
+        <string name="desc" value="It is a watermelon that only the pet #cWhite Monkey# can eat.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240092">
+        <string name="name" value="Commander&apos;s Corn Dog"/>
+        <string name="desc" value="A delicious corn dog made just for the pet #cJr. Von Leon and Jr. Orchid#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240089">
+        <string name="name" value="Ice Cookie"/>
+        <string name="desc" value="These ice cookies are baked just for the pet #cIce Knights#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240111">
+        <string name="name" value="Raw Liver"/>
+        <string name="desc" value="The #cLil Moonbeam# pet loves raw liver. It&apos;s a delicacy!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240093">
+        <string name="name" value="Carrot"/>
+        <string name="desc" value="A fresh carrot just for the pet #cThumpy#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240097">
+        <string name="name" value="Shuriken Cracker"/>
+        <string name="desc" value="A crunchy throwing star-shaped cracker for the pet #cLil&apos; Ninja#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5153011">
+        <string name="name" value="Lushan Town Skin Coupon"/>
+        <string name="desc" value="Use it at #cLushan Town Skin-Care# to change your skin to a color of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5152044">
+        <string name="name" value="Lushan Town Face Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cLushan Town Plastic Surgery# to change your face to a style of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5152043">
+        <string name="name" value="Lushan Town Face Coupon (REG)"/>
+        <string name="desc" value="Use it at #cLushan Town Plastic Surgery# to change your face #crandomly#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5151030">
+        <string name="name" value="Lushan Town Hair Color Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cLushan Town Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5151029">
+        <string name="name" value="Lushan Town Hair Color Coupon (REG)"/>
+        <string name="desc" value="Use it at #cLushan Town Hair Salon# to change your hair color #crandomly#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5150036">
+        <string name="name" value="Mahavira Hall Hair Style Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cMahavira Hall Hair Salon# to change your hair style to a style of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5150035">
+        <string name="name" value="Lushan Town Hair Style Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cLushan Town Hair Salon# to change your hair style to a style of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5150034">
+        <string name="name" value="Lushan Town Hair Style Coupon (REG)"/>
+        <string name="desc" value="Use it at #cLushan Town Hair Salon# to change your hair style #crandomly#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5152017">
+        <string name="name" value="Lushan Town Cosmetic Lens Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cLushan Town Plastic Surgery# to change your eye to a color of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5152016">
+        <string name="name" value="Lushan Town Cosmetic Lens Coupon (REG)"/>
+        <string name="desc" value="Use it at #cLushan Town Plastic Surgery# to change your eye color #crandomly#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5010080">
+        <string name="name" value="Spring Rain"/>
+        <string name="desc" value="A gentle spring rain that glitters.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010081">
+        <string name="name" value="Peacock Effect"/>
+        <string name="desc" value="A fancy effect that reminds you of an elegant peacock. Don&apos;t you want to show off your shimmering feathers?\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010083">
+        <string name="name" value="Winter Wonderland"/>
+        <string name="desc" value="A slowly flashing snow crystal.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010129">
+        <string name="name" value="Fluffy Chuen"/>
+        <string name="desc" value="Effect of the fluffy Chuen.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010130">
+        <string name="name" value="Fluffy Luca"/>
+        <string name="desc" value="Effect of the fluffy Luca.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010131">
+        <string name="name" value="Fluffy Meiko"/>
+        <string name="desc" value="Effect of the fluffy Meiko.\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010108">
+        <string name="name" value="I am a star!"/>
+        <string name="desc" value="I am a star!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010100">
+        <string name="name" value="Maple Style Effect"/>
+        <string name="desc" value="You bested the fame coordinator! Show off your unique style with these flashy effects!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5010143">
+        <string name="name" value="Maple Steward Effect"/>
+        <string name="desc" value="An effect for the noble stewards of Maple World!\nDouble-click on the icon or designate a HotKey to turn the effect on/off."/>
+    </imgdir>
+    <imgdir name="5240132">
+        <string name="name" value="Friendly Fresh Milk"/>
+        <string name="desc" value="Fresh milk only for the pet #cFurry Elwin, Fluffy Lily, and Baby Nero#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240120">
+        <string name="name" value="Rainbow Melon"/>
+        <string name="desc" value="A juicy melon adored by the pet Chameleons #cGreen Chad, Pink Mel and Orange Leon#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240130">
+        <string name="name" value="Guardian Lollipop"/>
+        <string name="desc" value="A lollipop adored by the pet #cSword Sheep, Magic Sheep, and Heal Sheep#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240121">
+        <string name="name" value="Acorn"/>
+        <string name="desc" value="A plump acorn that only the pet Chipmunks #cChippermunk, Chubmunk and Chipmunch# can eat.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240125">
+        <string name="name" value="Delicious Fish"/>
+        <string name="desc" value="Delicious fish for the pet #cPengy#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5150023">
+        <string name="name" value="Floating Market Hair Style coupon(REG)"/>
+        <string name="desc" value="Use it on #cFloating Market Hair Salon# to change your hair style #crandomly#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5150037">
+        <string name="name" value="Floating Market Hairstyle Coupon (VIP)"/>
+        <string name="desc" value="Use it at #cFloating Market Hair Salon# to change your hair to a style of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5151031">
+        <string name="name" value="Floating Market Hair Color Coupon (VIP)"/>
+        <string name="desc" value="Use it on #cFloating Market Hair Salon# to change your hair to a color of #cyour choice#. (one-time use)"/>
+    </imgdir>
+    <imgdir name="5240135">
+        <string name="name" value="Ducky&apos;s Coco Juice"/>
+        <string name="desc" value="Delicious juice for the pet #cDucky#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240151">
+        <string name="name" value="Witch&apos;s Fish"/>
+        <string name="desc" value="An enchanted fish that can only be consumed by the pet #cSalem and Kit#, the cats who were raised by a witch.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240152">
+        <string name="name" value="Bichon&apos;s Premium Pup Chow"/>
+        <string name="desc" value="This nutritious chow was formulated exclusively for the pet #cBichon#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240146">
+        <string name="name" value="TuTu&apos;s Fly"/>
+        <string name="desc" value="Nice and juicy, just how the pet #cTuTu# likes it!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240145">
+        <string name="name" value="Nenne&apos;s Soft Lettuce Leaf"/>
+        <string name="desc" value="Gentle and easy to digest for the pet #cNenne#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240141">
+        <string name="name" value="Diamond Candy"/>
+        <string name="desc" value="A diamond candy that can only be digested by the pet #cLil Damien#. Demon soldiers really know how to take care of their allies!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240148">
+        <string name="name" value="Legendary Cherry"/>
+        <string name="desc" value="A tasty Legendary Cherry for the pet #cLil Tengu# to enjoy.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240149">
+        <string name="name" value="Bone-Shaped Chewing Gum"/>
+        <string name="desc" value="This edible chewing gum was made exclusively for the pet #cBeagle, Sheepdog and Retriever#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240140">
+        <string name="name" value="Heroic Provision"/>
+        <string name="desc" value="Provisions for heroes that can only be rationed to the pet #cLil Aran#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240160">
+        <string name="name" value="Glimmering Petal"/>
+        <string name="desc" value="A sparkling petal from Arcana that only the pet #cSmall Spirit# can truly appreciate.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240200">
+        <string name="name" value="Fish Treat"/>
+        <string name="desc" value="A fish treat that&apos;s a favorite of the #cTabby Boxcat, White Boxcat and Black Boxcat# pets, especially if they don&apos;t have to leave their boxes to get one.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240206">
+        <string name="name" value="School of Sardines"/>
+        <string name="desc" value="A school of sardines, the favorite delicacy of the #cWhite Whale, Black Whale and Pink Whale# pets.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240159">
+        <string name="name" value="Vampire Chow"/>
+        <string name="desc" value="This canned blood pudding is a favorite snack of the pet #cVampire Cat#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240177">
+        <string name="desc" value="Rotting meat. The undead dog pet #cFrankie&apos;s# favourite food.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Frankie&apos;s Treat"/>
+    </imgdir>
+    <imgdir name="5240084">
+        <string name="name" value="Roo-bot Recharge Unit"/>
+        <string name="desc" value="These snack-sized, extra-tasty recharge units really hit the spot for the pet #cRoo-A, Roo-B, and Roo-C#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240091">
+        <string name="name" value="Dilloberry"/>
+        <string name="desc" value="A sweet berry that grows near Dillo burrows. It is the favorite food of the pet #cPinkadillo, Greenadillo, Yellowdillo, RED Penguin, Blue Burrow and Brown Burrow.#\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240095">
+        <string name="name" value="Chestnut Ice Pop"/>
+        <string name="desc" value="Yummy Chestnut Ice Pops that the #cChestnut, Burnt Nut and Unripe Nut# pets like.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240100">
+        <string name="name" value="Warm Flame"/>
+        <string name="desc" value="The #cWhite Candle, Blue Candle and Grape Candle# pets adore this cozy flame.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240119">
+        <string name="name" value="Chun Battery"/>
+        <string name="desc" value="A battery that energizes the pet #cSoldier Chun#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240138">
+        <string name="name" value="Fire Eye Drop"/>
+        <string name="desc" value="Only the pet #cLil Zakum# pets can chomp these Fire Eye Drops.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240147">
+        <string name="name" value="Honey Butter Biscuit"/>
+        <string name="desc" value="A honey butter biscuit exclusively for the #cSheepdog, Samoyed, and Retriever# pets.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240118">
+        <string name="name" value="Hong Battery"/>
+        <string name="desc" value="A battery that energizes the pet #cSoldier Hong#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240300">
+        <string name="desc" value="It&apos;s a mini seed for the pet #cMini Chicken#. Perfect harmony.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Mini Seed"/>
+    </imgdir>
+    <imgdir name="5240301">
+        <string name="desc" value="Brutal though it may sound, the #cSoft-Boiled, Hard-Boiled and Roasted# Cooked Egg pets actually love spoons.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Cooked Egg&apos;s Spoon"/>
+    </imgdir>
+    <imgdir name="5240302">
+        <string name="desc" value="When no one is looking, the pet #cMicroslime# likes to munch on these colourful flowers.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Microslime&apos;s Flower"/>
+    </imgdir>
+    <imgdir name="5240303">
+        <string name="desc" value="Any sasquatch&apos;s favourite treat, including the pet #cMicroyeti#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Microyeti&apos;s Lollipop"/>
+    </imgdir>
+    <imgdir name="5240304">
+        <string name="desc" value="Like all good gymrats, the pet #cGym Cat# can never have enough of canned tuna.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Canned Tuna"/>
+    </imgdir>
+    <imgdir name="5240305">
+        <string name="desc" value="When the pet #cIron Rabbit# doesn&apos;t have time to meal prep, he chows down on this.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Canned Carrot"/>
+    </imgdir>
+    <imgdir name="5240306">
+        <string name="desc" value="A bag full of treats for the #cPink Bearcat and Gold Bearcat# pets.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Bearcat Food"/>
+    </imgdir>
+    <imgdir name="5240307">
+        <string name="desc" value="It&apos;s a tiny stick of honey, for the tiny pet #cHoney B#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Honey B&apos;s Honey"/>
+    </imgdir>
+    <imgdir name="5240157">
+        <string name="name" value="Chick&apos;s Pea"/>
+        <string name="desc" value="Nutritious peas genetically engineered just for the pet #cYellow Chick#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240101">
+        <string name="name" value="Unmelting Butter Piece"/>
+        <string name="desc" value="A delectable piece of butter that Creampie pets #cKiwi Puff, Berry Puff and Mango Puff# like.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240075">
+        <string name="name" value="Salad"/>
+        <string name="desc" value="A lovely selection of vegetables that can only be eaten by the pet #cKangaroo#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240063">
+        <string name="name" value="Nectar"/>
+        <string name="desc" value="Nectar specially made for the pet #cButterfly#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240096">
+        <string name="name" value="Cleansing Powder"/>
+        <string name="desc" value="This powder helps the little pet #cGollux# keep its mind squeaky clean.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240062">
+        <string name="name" value="Fortune Cookie"/>
+        <string name="desc" value="A Fortune Cookie for the pet #cMerlion#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240106">
+        <string name="name" value="Li&apos;l Arby&apos;s Crunchy Fish Pastry"/>
+        <string name="desc" value="This crunchy fish pastry can only be consumed by the pet #cLi&apos;l Arby#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240105">
+        <string name="name" value="Li&apos;l Fort&apos;s Fresh Fish"/>
+        <string name="desc" value="Fresh fish that can only be consumed by the pet #cLi&apos;l Fort#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240104">
+        <string name="name" value="Li&apos;l Lai&apos;s Tasty Meat"/>
+        <string name="desc" value="A delicious treat for the pet #cLi&apos;l Lai#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240122">
+        <string name="name" value="Bobble&apos;s Lollipop"/>
+        <string name="desc" value="Only the #cLil Bobble# pet can chomp these sweet lollipops.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5220002">
+        <string name="desc" value="A scroll that has the magic power to release the seal on the Miwok Artifact. The scroll is written in ancient tribal language, so you need NPC Toh Reliseeker&apos;s help if you wish to use it."/>
+        <string name="name" value="Enchanted Scroll"/>
+    </imgdir>
+    <imgdir name="5240113">
+        <string name="name" value="Petite Cake"/>
+        <string name="desc" value="#cPetite Mario# loves cake!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5121052">
+        <string name="msg" value="%s"/>
+        <string name="name" value="차원의균열 퀘스트용"/>
+        <string name="desc" value="표지판"/>
+    </imgdir>
+    <imgdir name="5240161">
+        <string name="name" value="Nutritious Leaf"/>
+        <string name="desc" value="This nutritious leaf is a favorite snack of #cAlpacas#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240166">
+        <string name="name" value="Polar Cub Pet Food"/>
+        <string name="desc" value="Meat for the #cPolar Cub#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240168">
+        <string name="name" value="Boston Bone Cookie"/>
+        <string name="desc" value="Baked specially for #cBoston#, this bone cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240170">
+        <string name="name" value="Yorkshire Star Cookie"/>
+        <string name="desc" value="Baked specially for #cYorkshire#, this star cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240171">
+        <string name="name" value="Westie Heart Cookie"/>
+        <string name="desc" value="Baked specially for #cWestie#, this heart cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5010063">
+        <string name="name" value="Wanna Get Married Effect"/>
+        <string name="desc" value="A wanna get married effect. #cDouble-click# to toggle the effect, or set up a hotkey for it in your Key Config."/>
+    </imgdir>
+    <imgdir name="5240308">
+        <string name="name" value="Tubby Tiger&apos;s Drink"/>
+        <string name="desc" value="A refreshing bowl of water for #cTubby Tiger#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240164">
+        <string name="name" value="Healthy Worm"/>
+        <string name="desc" value="This healthy worm is a favorite snack of #cFish Men#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240158">
+        <string name="name" value="Shrimp&apos;s Sauce"/>
+        <string name="desc" value="Tasty Soy Sauce just for #cFried Shrimp#. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240144">
+        <string name="name" value="Lingling&apos;s Baby Tiger Milk"/>
+        <string name="desc" value="Sweet milk perfect for little #cLingling#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240309">
+        <string name="name" value="Grasshopper"/>
+        <string name="desc" value="A fresh grasshopper for #cMeerkat Mob#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240310">
+        <string name="name" value="Banana Milk"/>
+        <string name="desc" value="A tasty juicebox of banana milk for #cMouse Monkey#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
     <imgdir name="5010000">
         <string name="name" value="Sunny Day"/>
         <string name="desc" value="A special effect in which you&apos;ll see a brightly smiling sun floating over you. On the KeyConfig, configure this on a button of your choice to turn the effect on/off."/>
@@ -1361,6 +2074,14 @@
         <string name="name" value="MP potion recharge skill"/>
         <string name="desc" value="The skill that automatically recharges one&apos;s MP provided you have set the option up in the system option. \n#c The skill applies to all pet that does not have the skillt#.  "/>
     </imgdir>
+    <imgdir name="5190007">
+        <string name="name" value="Auto Pet Draw"/>
+        <string name="desc" value="The skill that automatically draw evolution pet in different floor near to the master&apos;s location."/>
+    </imgdir>
+    <imgdir name="5190008">
+        <string name="name" value="Auto Pet Dialogue"/>
+        <string name="desc" value="The skill that make evolution pet to chat and take action without master saying anything to it."/>
+    </imgdir>
     <imgdir name="5191000">
         <string name="name" value="(-) Delete Item Pick-Up"/>
         <string name="desc" value="Use this scroll to disable the pet from picking up items."/>
@@ -1955,13 +2676,5 @@
     </imgdir>
     <imgdir name="5990000">
         <string name="name" value="MTS sale"/>
-    </imgdir>
-    <imgdir name="5190007">
-        <string name="name" value="Auto Pet Draw"/>
-        <string name="desc" value="The skill that automatically draw evolution pet in different floor near to the master&apos;s location."/>
-    </imgdir>
-    <imgdir name="5190008">
-        <string name="name" value="Auto Pet Dialogue"/>
-        <string name="desc" value="The skill that make evolution pet to chat and take action without master saying anything to it."/>
     </imgdir>
 </imgdir>
